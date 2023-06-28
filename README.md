@@ -1,4 +1,4 @@
-# Awesome Free AI APIs
+# "Awful" Free AI APIs
 
 This repository contains a list of free to use AI APIs.
 
