@@ -1,4 +1,4 @@
-# "Awful" Free AI APIs
+# Free AI APIs
 
 This repository contains a list of free to use AI APIs.
 
@@ -28,7 +28,7 @@ One can bypass this using a proxy.
 | Catto***                                           | [catto***](https://discord.gg/cattogpt)                                                  |        | `https://api.cattto.repl.co/v1`                                       | ✅ 150       | ❌          | 20k                           | ❌               |                                                                       |
 | [Fox***](https://github.com/FoxGPT/gpt)            | No permanent invite                                                                      |        | `https://api.hypere.app`                                              | ❌           | ✅          | 30k/day 2k/h 60/min 5/sec     | ❌               | Frequent issues                                                       |
 | Churchless                                         | [qGFwCvMRSJ](https://discord.gg/qGFwCvMRSJ)                                              |        | `https://free.churchless.tech/v1`/`https://bypass.churchless.tech/v1` | ❌           | ✅          |                               | ❌               |                                                                       |
-| [Pur***](https://purgpt.xyz/#ratelimits)           | [PYs95Sym2a](https://discord.gg/PYs95Sym2a)                                              |        | `https://purgpt.xyz/v1`                                               | ❌           | ✅          | 10/10 secs 2000/day           | ❌               |                                                                       |
+| [Pur***](https://purgpt.xyz/#ratelimits)           | [PYs95Sym2a](https://discord.gg/PYs95Sym2a)                                              |        | `https://pur***.xyz/v1`                                               | ❌           | ✅          | 10/10 secs 2000/day           | ❌               |                                                                       |
 | [Pawan.krd](https://github.com/PawanOsman/ChatGPT) | [pawan](https://discord.gg/pawan)                                                        |        | `https://api.pawan.krd/v1`                                            | ❌           | ❌          | 250/day[^1]                   | ❌               | Also offers an `unfiltered` endpoint which costs twice as much tokens |
 
 [^1]: https://discord.com/channels/1055397662976905229/1103934259909103677/1103935598596734976
