@@ -1,4 +1,4 @@
-# "Awful" Free AI APIs
+# Free AI APIs
 
 This repository contains a list of free to use AI APIs.
 
@@ -31,6 +31,8 @@ One can bypass this using a proxy.
 | [Pur***](https://purgpt.xyz/#ratelimits)           | [PYs95Sym2a](https://discord.gg/PYs95Sym2a)                                              |        | `https://purgpt.xyz/v1`                                               | ❌           | ✅          | 10/10 secs 2000/day           | ❌               |                                                                       |
 | [Pawan.krd](https://github.com/PawanOsman/ChatGPT) | [pawan](https://discord.gg/pawan)                                                        |        | `https://api.pawan.krd/v1`                                            | ❌           | ❌          | 250/day[^1]                   | ❌               | Also offers an `unfiltered` endpoint which costs twice as much tokens |         
 | Chatty API                                         | [KT9MWZ64w8](https://discord.gg/KT9MWZ64w8)                                              |        | `https://gptfreeee.tech` | ✅           | ✅          |                               | ❌               |Not too stable|                                 
+| [Pur***](https://purgpt.xyz/#ratelimits)           | [PYs95Sym2a](https://discord.gg/PYs95Sym2a)                                              |        | `https://pur***.xyz/v1`                                               | ❌           | ✅          | 10/10 secs 2000/day           | ❌               |                                                                       |
+| [Pawan.krd](https://github.com/PawanOsman/ChatGPT) | [pawan](https://discord.gg/pawan)                                                        |        | `https://api.pawan.krd/v1`                                            | ❌           | ❌          | 250/day[^1]                   | ❌               | Also offers an `unfiltered` endpoint which costs twice as much tokens |
 
 [^1]: https://discord.com/channels/1055397662976905229/1103934259909103677/1103935598596734976
 [^2]: https://discord.com/channels/1120753218071310346/1120757570026602537/1121581426232537218
