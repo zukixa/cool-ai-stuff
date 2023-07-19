@@ -41,4 +41,4 @@ For transparency: I founded FoxGPT, but I'm not working on this project anymore.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Luna-OSS/awesome-free-ai-apis&type=Date)](https://star-history.com/#Luna-OSS/awesome-free-ai-apis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date)](https://star-history.com/#NovaOSS/free-ai-apis&Date)
