@@ -8,7 +8,7 @@ This repository contains a list of free to use AI APIs.
 
 | Name                                            | Discord                                 | Endpoint                                | `gpt-4` | `gpt-4-32k` | Image Gen. | Transcriptions | Embeddings |
 | ----------------------------------------------- | --------------------------------------- | --------------------------------------- | ------- | ----------- | ---------- | -------------- | ---------- |
-| [ChimeraAI](https://adventblocks.cc)            | [invite](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/v1` | ✅      | ✅         | ✅         | ✅            | ✅         |
+| [ChimeraAI](https://adventblocks.cc)            | [invite](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/api/v1` | ✅      | ✅         | ✅         | ✅            | ✅         |
 | [PurGPT](https://purgpt.xyz)                    | [invite](https://discord.gg/PYs95Sym2a) | `https://purgpt.xyz/v1`                 | ❌      | ❌         | ✅         | ✅            | ✅         |
 | [NovaAI](https://nova-oss.com)                  | [invite](https://discord.nova-oss.com)  | `https://api.nova-oss.com/v1`           | ✅      | ✅         | ❌         | ❌            | ❌         |
 | Churchless                                      | [invite](https://discord.gg/vuheSY27gV) | `https://free.churchless.tech/v1`       | ❌      | ❌         | ❌         | ❌            | ❌         |
