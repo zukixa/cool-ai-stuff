@@ -6,14 +6,20 @@ This repository contains a list of free to use AI APIs.
 > [!WARNING]  
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
 
-| Name                                            | Discord                                 | Endpoint                                | `gpt-4` | `gpt-4-32k` | Image Gen. | Transcriptions | Embeddings |
+IMG = Image Generation
+
+STT = Speech to Text
+
+EBD = Embeddings
+
+| Name                                            | Join                                 | Endpoint                                | `gpt-4` | `-32k` | IMG | STT | EBD |
 | ----------------------------------------------- | --------------------------------------- | --------------------------------------- | ------- | ----------- | ---------- | -------------- | ---------- |
-| [ChimeraAI](https://adventblocks.cc)            | [invite](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/api/v1` | ✅      | ✅         | ✅         | ✅            | ✅         |
-| [PurGPT](https://purgpt.xyz)                    | [invite](https://discord.gg/PYs95Sym2a) | `https://purgpt.xyz/v1`                 | ❌      | ❌         | ✅         | ✅            | ✅         |
-| [NovaAI](https://nova-oss.com)                  | [invite](https://discord.nova-oss.com)  | `https://api.nova-oss.com/v1`           | ✅      | ✅         | ❌         | ❌            | ❌         |
-| GeniusAI                                        | [invite](https://discord.gg/nzpvqSDGAx) | `https://geniusai.waveai-20.repl.co/v1` | ✅      | ❌         | ❌         | ❌            | ❌         |
-| Churchless                                      | [invite](https://discord.gg/vuheSY27gV) | `https://free.churchless.tech/v1`       | ❌      | ❌         | ❌         | ❌            | ❌         |
-| Skailar AI                                      | [invite](https://discord.gg/Qk4QHvXS9z) | `https://api.skailar.net/v1`            | ❌      | ❌         | ❌         | ❌            | ❌         |
+| [NovaAI](https://nova-oss.com)                  | [dc](https://discord.nova-oss.com)  | `https://api.nova-oss.com/v1`           | ✅      | ✅         | ✅         | ❌            | ✅         |
+| [ChimeraAI](https://adventblocks.cc)            | [dc](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/api/v1` | ✅      | ❌         | ✅         | ✅            | ✅         |
+| [PurGPT](https://purgpt.xyz)                    | [dc](https://discord.gg/PYs95Sym2a) | `https://purgpt.xyz/v1`                 | ❌      | ❌         | ✅         | ✅            | ✅         |
+| GeniusAI                                        | [dc](https://discord.gg/nzpvqSDGAx) | `https://geniusai.waveai-20.repl.co/v1` | ✅      | ❌         | ❌         | ❌            | ❌         |
+| Churchless                                      | [dc](https://discord.gg/vuheSY27gV) | `https://free.churchless.tech/v1`       | ❌      | ❌         | ❌         | ❌            | ❌         |
+| Skailar AI                                      | [dc](https://discord.gg/Qk4QHvXS9z) | `https://api.skailar.net/v1`            | ❌      | ❌         | ❌         | ❌            | ❌         |
 
 
 > [!NOTE]  
