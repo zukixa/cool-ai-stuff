@@ -12,13 +12,14 @@ STT = Speech to Text
 
 EBD = Embeddings
 
-| Name                                 | Join                                | Endpoint                                    | `gpt-4` | `-32k` | IMG | STT | EBD |
-| ------------------------------------ | ----------------------------------- | ------------------------------------------- | ------- | ------ | --- | --- | --- |
-| [NovaAI](https://nova-oss.com)       | [dc](https://discord.nova-oss.com)  | `https://api.nova-oss.com/v1`               | ✅      | ✅     | ✅  | ❌  | ✅  |
-| [ChimeraAI](https://adventblocks.cc) | [dc](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/api/v1` | ✅      | ❌     | ✅  | ✅  | ✅  |
-| [PurGPT](https://purgpt.xyz)         | [dc](https://discord.gg/PYs95Sym2a) | `https://purgpt.xyz/v1`                     | ❌      | ❌     | ✅  | ✅  | ✅  |
-| GeniusAI                             | [dc](https://discord.gg/nzpvqSDGAx) | `https://geniusai.waveai-20.repl.co/v1`     | ✅      | ❌     | ❌  | ❌  | ❌  |
-| Churchless                           | [dc](https://discord.gg/vuheSY27gV) | `https://free.churchless.tech/v1`           | ❌      | ❌     | ❌  | ❌  | ❌  |
+| Name                                     | Join                                | Endpoint                                    | `gpt-4` | `-32k` | IMG | STT | EBD |
+| ---------------------------------------- | ----------------------------------- | ------------------------------------------- | ------- | ------ | --- | --- | --- |
+| [NovaAI](https://nova-oss.com)           | [dc](https://discord.nova-oss.com)  | `https://api.nova-oss.com/v1`               | ✅      | ✅     | ✅  | ❌  | ✅  |
+| [ChimeraAI](https://adventblocks.cc)     | [dc](https://discord.gg/nYrwM7HHdA) | `https://chimeragpt.adventblocks.cc/api/v1` | ✅      | ❌     | ✅  | ✅  | ✅  |
+| [PurGPT](https://purgpt.xyz)             | [dc](https://discord.gg/PYs95Sym2a) | `https://purgpt.xyz/v1`                     | ❌      | ❌     | ✅  | ✅  | ✅  |
+| [CycloneGPT](https://gpt.darkcoder15.tk) | [dc](https://discord.gg/rEfYwj9TUV) | `https://gpt.darkcoder15.tk/v1`             | ✅      | ❌     | ✅  | ❌  | ❌  |
+| GeniusAI                                 | [dc](https://discord.gg/nzpvqSDGAx) | `https://geniusai.waveai-20.repl.co/v1`     | ✅      | ❌     | ❌  | ❌  | ❌  |
+| Churchless                               | [dc](https://discord.gg/vuheSY27gV) | `https://free.churchless.tech/v1`           | ❌      | ❌     | ❌  | ❌  | ❌  |
 
 > [!NOTE]  
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
