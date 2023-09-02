@@ -8,18 +8,21 @@ This repository contains a list of free to use AI APIs.
 
 ## List
 
-| Service                              | Join                                                                                                                         | API Endpoint                        | `gpt-4` | `-32k` | IMG | STT | EMB |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------- | ------ | --- | --- | --- |
-| [PurGPT](https://purgpt.xyz)         | [D](https://discord.gg/PYs95Sym2a)                                                                                           | `purgpt.xyz/v1`                     | ✅      | ✅     | ✅  | ✅  | ✅  |
-| [NovaAI](https://nova-oss.com)       | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt)                                                                 | `api.nova-oss.com/v1`               | ✅      | ✅     | ✅  | ❌  | ✅  |
-| CycloneGPT                           | [D](https://discord.gg/rEfYwj9TUV) [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy) | `gpt.darkcoder15.tk/v1`             | ✅      | ❌     | ✅  | ✅  | ✅  |
-| [ChimeraAI](https://adventblocks.cc) | [T](https://t.me/chimera_ai)                                                                                                 | `chimeragpt.adventblocks.cc/api/v1` | ✅      | ❌     | ✅  | ✅  | ✅  |
-| [AnalogAI](https://api.analogai.in/) | [D](https://discord.gg/arqszhBACb)                                                                                           | `api.analogai.in/v1`                | ✅      | ✅     | ❌  | ❌  | ❌  |
-| GeniusAI                             | [D](https://discord.gg/nzpvqSDGAx)                                                                                           | `geniusai.waveai-20.repl.co/v1`     | ✅      | ❌     | ❌  | ❌  | ❌  |
-| Churchless                           | [D](https://discord.gg/vuheSY27gV)                                                                                           | `free.churchless.tech/v1`           | ❌      | ❌     | ❌  | ❌  | ❌  |
+| Service                                   | Join                                                                                      | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
+| [ChimeraAI](https://adventblocks.cc)      | [T](https://t.me/chimera_ai)                                                              | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
+| WebRaft AI                                | [D](https://discord.gg/XwxUdHhF59)                                                        | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
+| [PurGPT](https://purgpt.xyz)              | [D](https://discord.gg/PYs95Sym2a)                                                        | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
+| [NovaAI](https://nova-oss.com)            | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt)                              | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
+| [CycloneGPT](https://gpt.darkcoder15.tk/) | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy) | ✅      | ❌     | ✅  | ❌  | ✅  | ✅  |
+| GeniusAI                                  | [D](https://discord.gg/nzpvqSDGAx)                                                        | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
+| [WaveAI](https://api.waveai.link)         | [D](https://discord.gg/arqszhBACb)                                                        | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+| [AnalogAI](https://api.analogai.in/)      | [D](https://discord.gg/arqszhBACb)                                                        | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+| Churchless                                | [D](https://discord.gg/vuheSY27gV)                                                        | ❌      | ❌     | ❌  | ❌  | ❌  | ❌  |
 
-Abbreviations:
+Legend:
 **IM**a**G**e Generation |
+**T**ext **T**o **S**peech |
 **S**peech **T**o **T**ext |
 **EMB**eddings |
 **D**iscord | **M**atrix | **T**elegram
@@ -30,16 +33,18 @@ Abbreviations:
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of August 2023.**
 
-For transparency: I, [@nsde](https://github.com/nsde), founded FoxGPT, but I'm not working on this project anymore. [@adi6409](https://github.com/adi6409) is.
+For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
-You are welcome to contribute to this list by opening a pull request!
+**You are welcome to contribute to this list by opening a pull request!**
 
 ## Other
 
-- Skailar AI [Discord](https://discord.gg/Qk4QHvXS9z)
-- CattoGPT [Discord](https://discord.gg/cattogpt)
-- pawan.krd [Discord](https://discord.gg/pawan)
-- Chatty [Discord](https://discord.gg/KT9MWZ64w8)
+- HelixAI [Discord](https://discord.gg/nvswJWu8Br)
+- Cyclone [Discord]([D](https://discord.gg/rEfYwj9TUV)
+- Skailar [Discord](https://discord.gg/Qk4QHvXS9z)
+- CattoGPT (abandoned project) [Discord](https://discord.gg/cattogpt)
+- Chatty (allegendly opening 2024 again) [Discord](https://discord.gg/KT9MWZ64w8)
+- pawan.krd (only own models) [Discord](https://discord.gg/pawan)
 
 ## Star History
 
