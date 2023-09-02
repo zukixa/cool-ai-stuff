@@ -40,7 +40,7 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 ## Other
 
 - HelixAI [Discord](https://discord.gg/nvswJWu8Br)
-- Cyclone [Discord]([D](https://discord.gg/rEfYwj9TUV)
+- Cyclone [Discord (shutting down?)](https://discord.gg/rEfYwj9TUV)
 - Skailar [Discord](https://discord.gg/Qk4QHvXS9z)
 - CattoGPT (abandoned project) [Discord](https://discord.gg/cattogpt)
 - Chatty (allegendly opening 2024 again) [Discord](https://discord.gg/KT9MWZ64w8)
