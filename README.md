@@ -10,15 +10,16 @@ This repository contains a list of free to use AI APIs.
 
 #### Layer 1's (Wrapper upon OpenAI):
 
-| Service                                   | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
-| [ChimeraAI](https://adventblocks.cc)      | [T](https://t.me/chimera_ai)                                                                          | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
-| WebRaft AI                                | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
-| [NovaAI](https://nova-oss.com)            | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
-| [CycloneGPT](https://gpt.darkcoder15.tk/) | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅      | ❌     | ✅  | ❌  | ✅  | ✅  |
-| GeniusAI                                  | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
-| [AnalogAI](https://api.analogai.in/)      | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
-| [zukijourney](https://cock-za06.onrender.com)      | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      |  ❌  | ✅  | ❌  | ❌  | ❌  |
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
+| [ChimeraAI](https://adventblocks.cc)          | [T](https://t.me/chimera_ai)                                                                          | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
+| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
+| [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
+| [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅      | ❌     | ✅  | ❌  | ✅  | ✅  |
+| [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
+| GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
+| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                                   | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
