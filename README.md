@@ -2,7 +2,7 @@
 
 This repository contains a list of free to use APIs for several AI models.
 
-**🏴‍☠️ I'm unbeleivably thankful to be [featured by one of my favourite websites ever, FMHY](https://fmhy.pages.dev/ai/), I love the community! 🏴‍☠️** #keepseeding
+**🏴‍☠️ I'm unbelievably thankful to be [featured by one of my favourite websites ever, FMHY](https://fmhy.pages.dev/ai/), I love the community! 🏴‍☠️** #keepseeding
 
 
 
