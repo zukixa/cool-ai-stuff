@@ -16,14 +16,15 @@ This repository contains a list of free to use APIs for several AI models.
 
 | Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
-| [ChimeraAI](https://adventblocks.cc)          | [T](https://t.me/chimera_ai)                                                                          | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
+| [Naga AI](https://naga.ac)                    | [T](https://t.me/chimera_ai)                                                                          | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅      | ❌     | ✅  | ❌  | ✅  | ✅  |
-| [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
+| [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
 | [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
 | [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
+| ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP  |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                                   | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
@@ -32,6 +33,7 @@ This repository contains a list of free to use APIs for several AI models.
 | [WaveAI](https://api.waveai.link)         | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
 
 Legend:
+**W**ork **i**n **P**rogress |
 **IM**a**G**e Generation |
 **T**ext **T**o **S**peech |
 **S**peech **T**o **T**ext |
@@ -42,7 +44,7 @@ Legend:
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of August 2023.**
+> Data given without warranty of any kind. **As of September 2023.**
 
 For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
