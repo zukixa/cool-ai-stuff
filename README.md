@@ -23,8 +23,9 @@ This repository contains a list of free to use APIs for several AI models.
 | [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
 | [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+| [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
 | [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
-| ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP  |
+| ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                                   | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
@@ -55,7 +56,6 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 - HelixAI [Discord](https://discord.gg/nvswJWu8Br) [GitHub](https://github.com/HelixAIOrg)
 - Churchless [Discord](https://discord.gg/vuheSY27gV)
 - CycloneGPT [Discord (shutting down?)](https://discord.gg/rEfYwj9TUV)
-- Skailar [Discord](https://discord.gg/Qk4QHvXS9z)
 - CattoGPT (abandoned project) [Discord](https://discord.gg/cattogpt)
 - Chatty (allegendly opening 2024 again) [Discord](https://discord.gg/KT9MWZ64w8)
 - pawan.krd (only own models) [Discord](https://discord.gg/pawan)
