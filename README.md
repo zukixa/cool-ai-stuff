@@ -20,17 +20,22 @@ This repository contains a list of free to use APIs for several AI models.
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅      | ❌     | ✅  | ❌  | ✅  | ✅  |
 | [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
+| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
-| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
-| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP |
+
+#### Layer 1a's (*Paid, but cheaper than OpenAI* Wrapper upon OpenAI):
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
+| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --- | --- | --- | --- |
 | [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
 | [WaveAI](https://api.waveai.link) | [D](https://discord.gg/arqszhBACb) | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+
 
 Legend:
 **W**ork **i**n **P**rogress |
