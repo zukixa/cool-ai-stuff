@@ -28,10 +28,10 @@ This repository contains a list of free to use APIs for several AI models.
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
-| Service                                   | Link                                                                                                  | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --- | --- | --- | --- |
-| [PurGPT](https://purgpt.xyz)              | [D](https://discord.gg/PYs95Sym2a)                                                                    | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
-| [WaveAI](https://api.waveai.link)         | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
+| Service                           | Link                               | `gpt-4` | `-32k` | IMG | TTS | STT | EMB |
+| --------------------------------- | ---------------------------------- | ------- | ------ | --- | --- | --- | --- |
+| [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
+| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/arqszhBACb) | ✅      | ✅     | ❌  | ❌  | ❌  | ❌  |
 
 Legend:
 **W**ork **i**n **P**rogress |
