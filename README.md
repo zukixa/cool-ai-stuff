@@ -18,8 +18,8 @@ This repository contains a list of free to use APIs for several AI models.
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                                                          | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
-| [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
-| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ❌     | ✅  | ✅  | ✅  | ✅  |
+| [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
+| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ❌      | ❌     | ✅  | ❌  | ✅  | ✅  |
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
