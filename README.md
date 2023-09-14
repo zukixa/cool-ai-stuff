@@ -18,9 +18,9 @@ This repository contains a list of free to use APIs for several AI models.
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                                                          | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     | ✅  | ❌  | ❌  | ✅  |
+| [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅      | ✅     | ✅  | ❌  | ✅  | ✅  |
 | [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ❌      | ❌     | ✅  | ✅  | ✅  | ✅  |
 | [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     | ✅  | ✅  | ✅  | ✅  |
-| [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ❌      | ❌     | ✅  | ❌  | ✅  | ✅  |
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     | ✅  | ✅  | ❌  | ❌  |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅      | ❌     | ✅  | ❌  | ❌  | ❌  |
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    | WIP | WIP | WIP | WIP |
@@ -59,7 +59,6 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
 - HelixAI [Discord](https://discord.gg/nvswJWu8Br) [GitHub](https://github.com/HelixAIOrg)
 - Churchless [Discord](https://discord.gg/vuheSY27gV)
-- CycloneGPT [Discord (shutting down?)](https://discord.gg/rEfYwj9TUV)
 - CattoGPT (abandoned project) [Discord](https://discord.gg/cattogpt)
 - Chatty (allegendly opening 2024 again) [Discord](https://discord.gg/KT9MWZ64w8)
 - pawan.krd (only own models) [Discord](https://discord.gg/pawan)
