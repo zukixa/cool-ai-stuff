@@ -1,11 +1,16 @@
 # Free AI APIs
 This repository contains a list of free to use APIs for several AI models.
 
-![image](https://github.com/NovaOSS/free-ai-apis/assets/67185896/77616758-4409-4244-a0ff-0a309c04c666)
+**Your donations make our open-source development possible!** 💜
+![image](https://github.com/NovaOSS/free-ai-apis/assets/67185896/8151e6d2-696e-4377-b05e-c532c4ab2670)
+
 ```
 BTC - bc1qpz7c0y75m4rpzk8nahsal04hnzsfp6nzdccstz
-XMR - 42CNBof22hBDaF7bjCS9gf6SKhXFkeTyd4h5L35o27P89iKXa2DCJigRbGGY44pBSzbT8oVXGaoKFXukdyZe3YJA4gMJBxy
+XMR - 84a1Goht8eH6Kj4SfaQgHNirNdJf94LzCi3s1Dkk1VbRPn2pBzivz9J3YbTGbcxbtnd8z9phKusYygCAoa5jMxwUCGFNva6
 LTC - ltc1qlxngyuh3k5c5unpqj23g8p2jwl49p4ks9h8fev
+ETH - 0xA437065839028462bd820645f2C6db6D5eD6F4F1
+BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
+
 ```
 
 **Thanks to [FMHY for featuring](https://fmhy.pages.dev/ai/) this repository!**
