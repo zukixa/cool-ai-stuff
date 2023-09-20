@@ -10,7 +10,6 @@ XMR - 84a1Goht8eH6Kj4SfaQgHNirNdJf94LzCi3s1Dkk1VbRPn2pBzivz9J3YbTGbcxbtnd8z9phKu
 LTC - ltc1qlxngyuh3k5c5unpqj23g8p2jwl49p4ks9h8fev
 ETH - 0xA437065839028462bd820645f2C6db6D5eD6F4F1
 BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
-
 ```
 
 **Thanks to [FMHY for featuring](https://fmhy.pages.dev/ai/) this repository!**
