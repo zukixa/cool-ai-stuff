@@ -24,7 +24,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 
 | Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude-2` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
-| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 10/min fixed | made by [@zukixa](https://github.com/zukixa) |
+| [zukijourney](https://cock-za06.onrender.com) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 10/min fixed | made by [@zukixa](https://github.com/zukixa) (a real banger :fire: :fire: :fire:)|
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     |    ❌       | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar Partner |
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      | ✅     |    ❌       | ✅  | ❌  | ❌  | ✅  | No | Very High | ~83/day growable |Stablest key-based GPT-4 provider, fully OSS!
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> | Very High | Unlimited | Stablest non-key GPT-4 |
@@ -32,7 +32,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | [DakuGPT](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    | ❌<sup>3</sup>       | ❌     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes | High <sup>3</sup> | 2000, growable | Offers a lot of niche models. |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, Strict ToS, offers own OSS model |
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Successor v2 to Chi.. |
-| AirAI | [D](https://discord.gg/CWB6uw7qJj) | WIP | WIP | WIP | WIP | WIP | WIP | WIP | WIP | WIP | WIP | Successor to Chatty
+| AirAI | [D](https://discord.gg/CWB6uw7qJj) | WIP | WIP | WIP | WIP | WIP | WIP | WIP | No | WIP | WIP | Successor to Chatty
 
 
 #### Layer 1a's (*Paid, but cheaper than OpenAI* Wrapper upon OpenAI):
