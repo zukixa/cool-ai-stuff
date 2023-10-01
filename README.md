@@ -44,7 +44,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
 | [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
-| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/arqszhBACb) | ✅<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Owner is *special.*
+| [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ✅<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Owner is *special.*
 | [CycloneGPT](https://gpt.darkcoder15.tk/)     | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Yes <sup>2</sup> | Medium |[Here](https://prnt.sc/Mm8if4u5OfAt) | ...
 
 <sup>1: NSFW allowed under special /unfiltered/ endpoint.</sup>\
