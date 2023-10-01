@@ -22,7 +22,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 <sup>*: This list solely covers known 'free' GPT-4 providers. If your service is paid, exclusive, associated with bad figures, or does not offer the idea of 'free *GPT-4*', it will not be listed.</sup>
 #### Layer 1's (Wrapper upon OpenAI):
 
-| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Stable? | GPT-4 Limits | Additional Notes |
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
 | [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | made by [@zukixa](https://github.com/zukixa)|
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner, reliable provider for free gpt-4 |
@@ -36,12 +36,12 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 
 
 #### Layer 1a's (*Paid, but cheaper than OpenAI* Wrapper upon OpenAI):
-| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Additional Notes |
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | -- |
-| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | Yes <sup>2</sup> | Toxic owner, overpriced |
+| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | No <sup>2</sup> | Toxic owner, overpriced |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
-| Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Stable? | L2 Proof | Additional Notes |
+| Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
 | [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
 | [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ✅<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Owner is *special.*
@@ -64,7 +64,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | **T**ext **T**o **S**peech | 
 | **S**peech **T**o **T**ext | 
 | **EMB**eddings | 
-| Is usage in RP, like **Censored?** | 
+| Is usage in RP, like **NSFW, Ok?** | 
 | Is the API **Stable?** | 
 | **GPT-4 Limits** (free uses) | 
 | **D**iscord , **M**atrix , **T**elegram |
