@@ -22,12 +22,12 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 <sup>*: This list solely covers known 'free' GPT-4 providers. If your service is paid, exclusive, associated with bad figures, or does not offer the idea of 'free *GPT-4*', it will not be listed.</sup>
 #### Layer 1's (Wrapper upon OpenAI):
 
-| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | GPT-4 Limits | Additional Notes |
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Stable? | GPT-4 Limits | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | ------ | --------- | --- | --- | --- | --- | ---- | --- | -- | -- |
-| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | made by [@zukixa](https://github.com/zukixa) (a real banger :fire: :fire: :fire:)|
-| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar Partner, Stablest Key-based GPT-4 |
-| [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ❌   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | Meh | ~83/day growable |GPT-4 is recovering from spammers, fully OSS!
-| GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Stablest non-key GPT-4 |
+| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅      | ✅     |    ✅       | ✅  | ✅  | ✅  | ✅  | Yes <sup>1</sup> | High | 3/min fixed | made by [@zukixa](https://github.com/zukixa)|
+| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅      | ✅     |    ✅        | ✅  | ❌  | ✅  | ✅  | No | High | 500/day fixed | Skailar partner, reliable provider for free gpt-4 |
+| [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ❌   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | High | credit-system | Fully open source! Made by [@nsde](https://github.com/nsde), the owner of this repository
+| GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Doesn't require any API key |
 | [DakuWorks](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    |  ✅<sup>3</sup>       | ❌     |    ✅       | ✅  | ✅  | ✅  | ✅  | [meh](https://prnt.sc/kiWq14l26-K6) | High <sup>3</sup> | 2000, growable | Owner threatened to retire already. Unique list of models. |
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chi.. | 
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, Strict ToS, offers own OSS model |
@@ -35,14 +35,13 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
 
 
-
 #### Layer 1a's (*Paid, but cheaper than OpenAI* Wrapper upon OpenAI):
-| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Additional Notes |
+| Service                                       | Link                                                                                                  | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Additional Notes |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | -- |
-| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | Yes <sup>2</sup> | Supplier for NovaAI |
+| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | Yes <sup>2</sup> | Toxic owner, overpriced |
 
 #### Layer 2's (Wrapper upon OpenAI Wrappers):
-| Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
+| Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | Censored? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
 | [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
 | [WaveAI](https://api.waveai.link) | [D](https://discord.gg/arqszhBACb) | ✅<sup>3</sup>      | ❌    |    ❌     | ❌  | ❌  | ❌  | ❌  | Yes <sup>1</sup> | Medium | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Owner is *special.*
@@ -65,7 +64,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | **T**ext **T**o **S**peech | 
 | **S**peech **T**o **T**ext | 
 | **EMB**eddings | 
-| Is usage in RP, like **NSFW Ok?** | 
+| Is usage in RP, like **Censored?** | 
 | Is the API **Stable?** | 
 | **GPT-4 Limits** (free uses) | 
 | **D**iscord , **M**atrix , **T**elegram |
