@@ -40,7 +40,6 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | -- |
 | [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | ✅      | ✅     |    ❌     | ❌ | ❌  | ❌  | ❌  | No <sup>2</sup> | Toxic owner, overpriced |
 
-#### Layer 2's (Wrapper upon OpenAI Wrappers):
 | Service                           | Link                               | `gpt-4` | `-32k` | `claude` | IMG | TTS | STT | EMB | NSFW Ok? | Stable? | L2 Proof | Additional Notes |
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | --- | --- | ---  | -- | -- |
 | [PurGPT](https://purgpt.xyz)      | [D](https://discord.gg/PYs95Sym2a) | ❌<sup>3</sup>      | ❌    |    ❌     | ✅  | ❌  | ❌  | ✅  | Yes | Medium-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
