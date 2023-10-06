@@ -108,7 +108,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://useadrenaline.com/app | App decompile is needed          | GPT-4?              |
 | https://flot.ai/ | App decompile is needed          | GPT-4?              |
 | https://aigc.kungfu.wang/ | Account generator needed               | GPT-4 possible              |
-| aria from opera) | App decompile is needed          | GPT-3.5-16k at best              |
+| Aria from opera | App decompile is needed          | GPT-3.5-16k at best              |
 | https://gptgod.site/ | Account generator is needed               | GPT-4?              |
 | https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
 | https://magic.ninomae.cn/ | Account generator is needed               | GPT-4?              |
