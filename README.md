@@ -89,29 +89,29 @@ This repository contains an uncensored list of free to use APIs and sites for se
 - Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
 
 ## Site List:<sup>*</sup>
-<sup>*: This list solely covers all providers I am happy with revealing, as I have not been able to use them internally for myself. Publicizing is therefore both admititng defeat and revealing a lot of cool websites to the public.</sup>
+<sup>*: This list solely covers all providers I know that are out there, and actually functioning. They have been mentioned before elsewhere, but they're all collected now in one spot.</sup>
 
-#### AI Chat Websites:
+#### AI Chat Websites / "Potential gpt4free Providers":
 
 | Website      | A Reverse-Engineer's Notes         | Additional Info |
 |--------------|------------------------------------|-----------------|
-| [getgpt](https://chat.getgpt.world/) | Google reCAPTCHA is used                | GPT-3.5-16k at best              |
-| [powerchat](https://powerchat.top/) | Cloudflare problems + account generator needed                  | GPT-3.5-16k best model              |
-| [gpt](https://chat.gpt.bz/#/chat) | Google Account's needed                     | GPT-4?              |
-| [tinycms](https://chat.tinycms.xyz:3002/) / [leadscloud](https://chat.leadscloud.xyz/) | Google reCAPTCHA is used | Potential GPT-4?              |
-| [aisoftworks](https://www.aisoftworks.com/chat) | Account generator is needed               | Potential GPT-4?              |
-| [aqua](https://aqua.xyz/chat) | Site is a mess                               | GPT-3.5-16k at best              |
-| [gptplus](http://chat.gptplus.one/) | Secret Key is used                         | GPT-3.5-16k at best              |
-| [gptforlove](https://ai.gptforlove.com/) | Secret Key is used                         | GPT-3.5-16k at best              |
-| [dingtoucake](https://nav.dingtoucake.xyz/) | Fuck Websockets                        | GPT-3.5-16k at best              |
-| [halist](https://halist.ai/app/) | App decompile is needed          | GPT-4?              |
-| [adrenaline](https://useadrenaline.com/app) | App decompile is needed          | GPT-4?              |
-| [flot](https://flot.ai/) | App decompile is needed          | GPT-4?              |
-| [kungfu](https://aigc.kungfu.wang/) | Account generator needed               | GPT-4 possible              |
-| [opera](aria from opera) | App decompile is needed          | GPT-3.5-16k at best              |
-| [gptgod](https://gptgod.site/) | Account generator is needed               | GPT-4?              |
-| [hidegpt](https://hidegpt.app) | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
-| [ninomae](https://magic.ninomae.cn/) | Account generator is needed               | GPT-4?              |
+| https://chat.getgpt.world/ | Google reCAPTCHA is used                | GPT-3.5-16k at best              |
+| https://powerchat.top/ | Cloudflare problems + account generator needed                  | GPT-3.5-16k best model              |
+| https://chat.gpt.bz/#/chat | Google Account's needed                     | GPT-4?              |
+| https://chat.tinycms.xyz:3002/ / https://chat.leadscloud.xyz/ | Google reCAPTCHA is used | Potential GPT-4?              |
+| https://www.aisoftworks.com/chat | Account generator is needed               | Potential GPT-4?              |
+| https://aqua.xyz/chat | Site is a mess                               | GPT-3.5-16k at best              |
+| http://chat.gptplus.one/ | Secret Key is used                         | GPT-3.5-16k at best              |
+| https://ai.gptforlove.com/ | Secret Key is used                         | GPT-3.5-16k at best              |
+| https://nav.dingtoucake.xyz/ | Fuck Websockets                        | GPT-3.5-16k at best              |
+| https://halist.ai/app/ | App decompile is needed          | GPT-4?              |
+| https://useadrenaline.com/app | App decompile is needed          | GPT-4?              |
+| https://flot.ai/ | App decompile is needed          | GPT-4?              |
+| https://aigc.kungfu.wang/ | Account generator needed               | GPT-4 possible              |
+| aria from opera) | App decompile is needed          | GPT-3.5-16k at best              |
+| https://gptgod.site/ | Account generator is needed               | GPT-4?              |
+| https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
+| https://magic.ninomae.cn/ | Account generator is needed               | GPT-4?              |
 
 #### AI Image Websites:
 
