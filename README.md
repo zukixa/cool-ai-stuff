@@ -112,6 +112,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://gptgod.site/ | Account generator is needed               | GPT-4?              |
 | https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
 | https://magic.ninomae.cn/ | Account generator is needed               | GPT-4?              |
+| https://api.daifuku.cloud/ | qq emails needed | GPT-4? |
+| https://gpt.freet.top/ | highly confusing | GPT-4? |
 
 #### AI Image Websites:
 
