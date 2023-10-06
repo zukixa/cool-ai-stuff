@@ -61,7 +61,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | GPT-4 & GPT-4-32k      | OpenAI Key Reseller, involved in drama |
 | [SpyrkAI](https://spyrk.ai/)                  | [D](https://discord.gg/nvswJWu8Br) [G](https://github.com/HelixAIOrg)                                 | No | Community-based LLM Models, main one called Spyrk. Associatd with Mandrill. |
 | pawan.krd                                     | [D](https://discord.gg/pawan)                                                                         | No | Ex-Largest OpenAI proxy, now provides own model, including NSFW ones. |
-| PaniniCo on Discord                           | @paninico                                                                                             | GPT-4/32k, Claude-2 | Sells [Poe](https://poe.com/) Year-Trial tokens. DM him for more info. Reliable seller, praised be airdrop racoon :pray: |
+| PaniniCo on Discord                           | @paninico                                                                                             | GPT-4/32k, Claude-2 | Sells [Poe](https://poe.com/) Year-Premium tokens. DM him for more info. Reliable seller, praised be airdrop racoon :pray: |
 
 
 |Legend: |
