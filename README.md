@@ -34,7 +34,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | --------------------------------- | ---------------------------------- | ------- | ------ | --------- | --- | --- | --- | ------ | ---  | -- | -- |
 | [PurGPT](https://purgpt.xyz)      | Invites Closed | ✅      | ❌    |    ❌     | ✅  | ❌  | ✅  | ✅ | Meh-Low |[Here](https://cdn.discordapp.com/attachments/1148212638690578503/1154430995047653426/Screenshot_2023-09-21-16-56-30-939_dev.beefers.vendetta.jpg) | Currently out of providers.
 | [WaveAI](https://api.waveai.link) | [D](https://discord.gg/hEKgVbKzur) | ✅      | ❌    |    ❌     | ❌  | ❌  | ❌  | ✅ <sup>1</sup> | Meh-Low | [Here](https://cdn.discordapp.com/attachments/1135879401721041056/1152965535357735003/image.png) | Currently out of providers. Owner is *special.*
-| CycloneGPT  | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅     | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Yes <sup>2</sup> | Meh |[Here](https://prnt.sc/Mm8if4u5OfAt) | Currently without active domain.
+| CycloneGPT  | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅     | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Yes <sup>2</sup>  |[Here](https://prnt.sc/Mm8if4u5OfAt) | Currently without active domain.
 
 <sup>1: NSFW allowed under special /unfiltered/ endpoint.</sup>\
 <sup>2: Has not explicitly banned the usage of the API for NSFW. </sup>\
