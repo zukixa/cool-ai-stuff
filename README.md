@@ -1,18 +1,6 @@
-# Free AI APIs
-This repository contains a list of free to use APIs for several AI models.
-
-**Your donations make our open-source development possible!** 💜
-![image](https://github.com/NovaOSS/free-ai-apis/assets/67185896/8151e6d2-696e-4377-b05e-c532c4ab2670)
-
-```
-BTC - bc1qpz7c0y75m4rpzk8nahsal04hnzsfp6nzdccstz
-XMR - 84a1Goht8eH6Kj4SfaQgHNirNdJf94LzCi3s1Dkk1VbRPn2pBzivz9J3YbTGbcxbtnd8z9phKusYygCAoa5jMxwUCGFNva6
-LTC - ltc1qlxngyuh3k5c5unpqj23g8p2jwl49p4ks9h8fev
-ETH - 0xA437065839028462bd820645f2C6db6D5eD6F4F1
-BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
-```
-
-**Thanks to [FMHY for featuring](https://fmhy.pages.dev/ai/) this repository!**
+# Free AI APIs & Sites
+This repository contains an uncensored list of free to use APIs and sites for several AI models. \
+> *This list is managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
 
 ***
 > [!WARNING]  
@@ -29,7 +17,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 | [NovaAI](https://nova-oss.com)                | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅      |  ❌   |    ❌       | ✅  | ❌  | ❌  | ✅  | No | High | credit-system | Fully open source! Made by [@nsde](https://github.com/nsde), the owner of this repository
 | GeniusAI                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅      | ❌     |    ❌     | ✅  | ✅  | ❌  | ❌  | Yes <sup>2</sup> |  High | Unlimited  | Doesn't require any API key |
 | [DakuWorks](https://api.daku.tech/)             | [D](https://discord.gg/eW3NqUxq5d)                                                                    |  ✅<sup>3</sup>       | ❌     |    ✅       | ✅  | ✅  | ✅  | ✅  | [meh](https://prnt.sc/kiWq14l26-K6) | High <sup>3</sup> | 2000, growable | Owner threatened to retire already. Unique list of models. |
-| [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to Chi.. | 
+| [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ❌<sup>3</sup>      | ❌     |     ❌      | ✅  | ✅  | ✅  | ✅  | Yes <sup>2</sup> | Meh <sup>3</sup> | 300/day, fixed | Successor to ChimeraGPT | 
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ❌<sup>3</sup>      | ❌     |    ✅<sup>4</sup>       | ✅  | ❌  | ❌  | ❌  | No | High | 100/day<sup>3</sup> | WebRaft Partner, Strict ToS, offers own OSS model |
 | AirAI | [D](https://discord.gg/CWB6uw7qJj) | ❌<sup>3</sup>  | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No | Meh-Low | Unlimited | 100% Reversing Sites, Poor API Support
 | ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP     | WIP    |    WIP     | WIP | WIP | WIP | WIP | Yes <sup>2</sup> | WIP | WIP | Very slow release, might never come out. |
@@ -73,9 +61,7 @@ BCH - qzsx83wsuhaufnwmwa97qp7tr6tfhemjwqg7cmlnvk
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of September 2023.**
-
-For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
+> Data given without warranty of any kind. **As of October 2023.**
 
 **You are welcome to contribute to this list by opening a pull request!**
 
@@ -91,10 +77,10 @@ For transparency: I, [@nsde](https://github.com/nsde), am the owner of *NovaAI*.
 
 ## Star History
 
-<a href="https://star-history.com/#NovaOSS/free-ai-apis&Date">
+<a href="https://star-history.com/zukixa/free-ai-apis&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=NovaOSS/free-ai-apis&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date" />
   </picture>
 </a>
