@@ -44,7 +44,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 #### Donator Potential per Service:
 | Service | Perks | Donation Cost |
 | ------- | ------ | ------------- |
-| zukijourney | 8/min limit, Midjourney on Disc. Bot, high quality AI porn generation, & more | $5+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
+| zukijourney | 8/min limit, Midjourney on Disc. Bot, high quality AI uncensored image generation, & more | $5+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
 | GeniusAI | Private Endpoint/API | $5+ or ask @perl404 |
 | NovaAI | Higher Limits, supports API sustainability | [check here](https://cdn.discordapp.com/attachments/1147565382425645107/1153079372778057849/image.png?ex=652c58d9&is=6519e3d9&hm=760580805ee81229737464b7dc1b75ecab76c4fab16541575ac98f71cab61db4&) |
 | DakuWorks | A ***lot**** of extra requests | Boosting the server |
