@@ -1,6 +1,8 @@
 # Free AI APIs & Sites
 This repository contains an uncensored list of free to use APIs and sites for several AI models. 
 > *This list is mainly managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
+>  
+> **Scroll down for the sites, APIs come first!**
 
 ***
 > [!WARNING]  
@@ -92,7 +94,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 <sup>*: This list solely covers all providers I know that are out there, and actually functioning. They have been mentioned before elsewhere, but they're all collected now in one spot.</sup>
 
 #### AI Chat Websites / "Potential gpt4free Providers":
-
+<sup>If you decide to reverse a site from the list below, it would be a great community service for you to add your code to xtekky's gpt4free github, as it is best to share your sources :)</sup>
 | Website      | A Reverse-Engineer's Notes         | Additional Info |
 |--------------|------------------------------------|-----------------|
 | https://chat.getgpt.world/ | Google reCAPTCHA is used                | GPT-3.5-16k at best              |
