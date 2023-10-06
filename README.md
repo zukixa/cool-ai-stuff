@@ -1,5 +1,5 @@
 # Free AI APIs & Sites
-This repository contains an uncensored list of free to use APIs and sites for several AI models. \
+This repository contains an uncensored list of free to use APIs and sites for several AI models. 
 > *This list is managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
 
 ***
@@ -21,9 +21,9 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ✅             | ❌<sup>3</sup>   | ❌             | ✅  | ✅      | ✅  | ❓                                  | Meh <sup>3</sup>  | 300/day             | Successor to ChimeraGPT, ex-largest free openai proxy                                           |
 | AirAI                                         | [D](https://discord.gg/CWB6uw7qJj)                                                                    | ✅             | ❌<sup>3</sup>   | ❌             | ❌  | ❌      | ❌  | ❌                                  | Meh-Low           | Unlimited           | Poor API Support/Maintenance, ran by a _very_ young dev.                                        |
 | WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ✅             | ❌               | ✅             | ✅  | ✅      | ✅  | ❌                                  | High              | 0                   | Skailar partner, reliable, but odd downtimes & issues                                           |
+|  [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅             | ❌               | ✅<sup>4</sup> | ✅  | ❌      | ❌  | ❌                                  | High              | 0                   | WebRaft Partner, Extremely Strict ToS, offers own OSS model Aura                                |
 | Nyx AI                                        | [D](https://discord.gg/9bqRWAP74f)                                                                    | ✅             | ❌               | ✅             | ❌  | ❌      | ❌  | ❓                                  | High              | 0                   | Small, new provider. Not that experienced.                                                      |
-| [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅             | ❌               | ✅<sup>4</sup> | ✅  | ❌      | ❌  | ❌                                  | High              | 0                   | WebRaft Partner, Extremely Strict ToS, offers own OSS model Aura                                |
-| ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ❓                                  | WIP               | WIP                 | Very slow release, might never come out.                                                        |
+|ElectronAI                                    | [D](https://discord.gg/YpF8fDnj)                                                                      | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ❓                                  | WIP               | WIP                 | Very slow release, might never come out.                                                        |
 | Mandrill                                      |          Invites Closed                                                                               | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ❓                                  | WIP               | WIP                 | Hosted by SprykAI affiliates                                                        |
 | ArtyAI                                        |   Invites Closed                                                                                      | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ✅                                  | WIP               | WIP                 | Hosted by NSFW RP fans.             |
 | DeltaAI                                       | [D](https://discord.gg/WWNZnNvsCK)                                                                    | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ✅                                  | WIP               | WIP                 | Owner is a likely criminal: [1](https://cdn.discordapp.com/attachments/1120037729644855427/1147118597517365268/image.png), [2](https://cdn.discordapp.com/attachments/1120037729644855427/1147118598100369509/Screenshot_20230712-163150_Discord.png), [3](https://cdn.discordapp.com/attachments/1120037729644855427/1147118598733705226/Screenshot_2023-07-12-21-59-13-122-edit_com.png), [4](https://cdn.discordapp.com/attachments/1120108764205436960/1138135092322127964/IMG_20230807_232340.jpg), [5](https://cdn.discordapp.com/attachments/1120108764205436960/1138135396878925905/Screenshot_2023-07-12-21-08-51-881-edit_com.discord.jpg) |                                                |
@@ -60,7 +60,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | **EMB**eddings | 
 | Is usage in RP, like **NSFW, Ok?** | 
 | Is the API **Stable?** | 
-| **GPT-4 Limits** (free uses) **upon join** | 
+| **GPT-4 Limits** immediately **@ (server) join** | 
 | **D**iscord , **M**atrix , **T**elegram |
 
 > [!NOTE]  
@@ -73,9 +73,9 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 ## Historical API Archive:
 
-- Churchless (OG, but dead project) [D](https://discord.gg/vuheSY27gV)
-- CattoGPT (privatized project) [D](https://discord.gg/cattogpt)
-- Chatty (AIR AI Precursor) [D](https://discord.gg/KT9MWZ64w8)
+- Churchless (OG, but dead project) [Discord](https://discord.gg/vuheSY27gV)
+- CattoGPT (privatized project) [Discord](https://discord.gg/cattogpt)
+- Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
 
 ## Star History
 
