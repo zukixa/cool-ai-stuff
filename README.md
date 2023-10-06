@@ -1,12 +1,12 @@
 # Free AI APIs & Sites
 This repository contains an uncensored list of free to use APIs and sites for several AI models. 
-> *This list is managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
+> *This list is mainly managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
 
 ***
 > [!WARNING]  
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
 
-## List:<sup>*</sup>
+## API List:<sup>*</sup>
 <sup>*: This list solely covers all providers known to me (@zukixa). If I miss any, I do not hold responsibility for such.</sup>
 #### Layer 1's (Wrapper upon OpenAI):
 
@@ -71,11 +71,58 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 **You are welcome to contribute to this list by opening a pull request!**
 
-## Historical API Archive:
+### Historical API Archive:
 
 - Churchless (OG, but dead project) [Discord](https://discord.gg/vuheSY27gV)
 - CattoGPT (privatized project) [Discord](https://discord.gg/cattogpt)
 - Chatty (AIR AI Precursor) [Discord](https://discord.gg/KT9MWZ64w8)
+
+## Site List:<sup>*</sup>
+<sup>*: This list solely covers all providers I am happy with revealing, as I have not been able to use them internally for myself. Publicizing is therefore both admititng defeat and revealing a lot of cool websites to the public.</sup>
+
+#### AI Chat Websites:
+
+| Website      | A Reverse-Engineer's Notes         | Additional Info |
+|--------------|------------------------------------|-----------------|
+| [getgpt](https://chat.getgpt.world/) | Google reCAPTCHA is used                | GPT-3.5-16k at best              |
+| [powerchat](https://powerchat.top/) | Cloudflare problems + account generator needed                  | GPT-3.5-16k best model              |
+| [gpt](https://chat.gpt.bz/#/chat) | Google Account's needed                     | GPT-4?              |
+| [tinycms](https://chat.tinycms.xyz:3002/) / [leadscloud](https://chat.leadscloud.xyz/) | Google reCAPTCHA is used | Potential GPT-4?              |
+| [aisoftworks](https://www.aisoftworks.com/chat) | Account generator is needed               | Potential GPT-4?              |
+| [aqua](https://aqua.xyz/chat) | Site is a mess                               | GPT-3.5-16k at best              |
+| [gptplus](http://chat.gptplus.one/) | Secret Key is used                         | GPT-3.5-16k at best              |
+| [gptforlove](https://ai.gptforlove.com/) | Secret Key is used                         | GPT-3.5-16k at best              |
+| [dingtoucake](https://nav.dingtoucake.xyz/) | Fuck Websockets                        | GPT-3.5-16k at best              |
+| [halist](https://halist.ai/app/) | App decompile is needed          | GPT-4?              |
+| [adrenaline](https://useadrenaline.com/app) | App decompile is needed          | GPT-4?              |
+| [flot](https://flot.ai/) | App decompile is needed          | GPT-4?              |
+| [kungfu](https://aigc.kungfu.wang/) | Account generator needed               | GPT-4 possible              |
+| [opera](aria from opera) | App decompile is needed          | GPT-3.5-16k at best              |
+| [gptgod](https://gptgod.site/) | Account generator is needed               | GPT-4?              |
+| [hidegpt](https://hidegpt.app) | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
+| [ninomae](https://magic.ninomae.cn/) | Account generator is needed               | GPT-4?              |
+
+#### AI Image Websites:
+
+| Website      | Additional Info |
+|--------------|-----------------|
+| [mstai](https://mst.ai/home) | SD Models         |
+| [aitubo](https://aitubo.ai/) | SD Models         |
+| [outpainter](https://outpainter.app) | Outpainting functionality |
+| [picfinder](https://picfinder.ai/) | Mix of AI images and Google Image Search |
+
+#### Other Resources:
+
+| Website      | Additional Info |
+|--------------|-----------------|
+| [andisearch](https://andisearch.com/) | AI Search Engine    |
+| [scite](https://scite.ai) / [inciteful](https://inciteful.xyz) | AI Research Search Engines |
+| [hashnode](https://hashnode.com/rix) | AI Search Engine    |
+| [ndpnt](https://voice.ndpnt.co/) | Free TTS         |
+| [iask](https://iask.ai/) | AI Search Engine    |
+| [heypi](https://heypi.com/talk) | Custom LLM model by InflectionAI |
+| [mancer](https://mancer.tech/models.html) | Free mythomax-13b |
+
 
 ## Star History
 
