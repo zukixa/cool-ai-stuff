@@ -104,18 +104,21 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://www.aisoftworks.com/chat | Account generator is needed               | Potential GPT-4?              |
 | https://aqua.xyz/chat | Site is a mess                               | GPT-3.5-16k at best              |
 | http://chat.gptplus.one/ | Secret Key is used                         | GPT-3.5-16k at best              |
-| https://ai.gptforlove.com/ | Secret Key is used                         | GPT-3.5-16k at best              |
 | https://nav.dingtoucake.xyz/ | Fuck Websockets                        | GPT-3.5-16k at best              |
 | https://halist.ai/app/ | App decompile is needed          | GPT-4?              |
 | https://useadrenaline.com/app | App decompile is needed          | GPT-4?              |
 | https://flot.ai/ | App decompile is needed          | GPT-4?              |
 | https://aigc.kungfu.wang/ | Account generator needed               | GPT-4 possible              |
 | Aria from opera | App decompile is needed          | GPT-3.5-16k at best              |
-| https://gptgod.site/ | Account generator is needed               | GPT-4?              |
-| https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
 | https://magic.ninomae.cn/ | Account generator is needed               | GPT-4?              |
 | https://api.daifuku.cloud/ | qq emails needed | GPT-4? |
 | https://gpt.freet.top/ | highly confusing | GPT-4? |
+| https://alpha.bito.co/bitoai/ | email verification needed | GPT-3.5-16k at best |
+| https://easy-peasy.ai/chat | email verification needed, potentially low limits | just 3.5, possibilities of -4 with free trials of sorts |
+| chat.ai-zc.com | qq email needed | GPT-4 available |
+| https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
+| https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py)                         | GPT-3.5-16k at best              |
+| https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py)               | GPT-4?              |
 
 #### AI Image Websites:
 
