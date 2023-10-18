@@ -16,7 +16,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ---------------- | -------------- | --- | ------- | --- | ----------------------------------- | ----------------- | ------------------- | ----------------------------------------------------------------------------------------------- |
 | [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅             | ✅               | ✅             | ✅  | ✅      | ✅  | ✅<sup>1</sup>                     | Meh              | 3/min               | created by the absolute banger :fire: :fire: :fire:                                             |
 | GeniusAI by zukijourney                                      | [D](https://discord.gg/nzpvqSDGAx)                                                                    | ✅             | ✅               | ❌             | ✅  | ❌      | ❌  | ✅                                 | Meh              | Unlimited           | Provides private endpoints that are high quality. Public API is ran by zukijourney            |
-| [NovaAI](https://nova-oss.com) by SprykAI               | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ❌      | ✅  | ❌                                  | Meh               | ~42/day             | Largest Open-Source API, unique in that aspect. **Currently Offline** |
+| [NovaAI](https://nova-oss.com) by SprykAI               | [D](https://discord.nova-oss.com) [T](https://t.me/nova_gpt) [G](https://github.com/novaoss/nova-api) | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ❌      | ✅  | ❌                                  | Meh               | ~42/day             | Largest Open-Source API, unique in that aspect. **Currently Unstable** |
 | ShuttleAI                                     | [D](https://discord.gg/pcrjWQRpfS)                                                                    | ✅             | ✅<sup>3</sup>   | ❌             | ❌  | ❌      | ❌  | ✅                                  | Meh              | 20/min              | Faked GPT-4 before: [1](https://prnt.sc/o8n29Nq4VO86), [2](https://prnt.sc/oq8LUtO_EmeL), [3](https://prnt.sc/IvsnjL_FpkQc) |
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ✅      | ✅  | ❓                                  | Meh <sup>3</sup>  | 300/day             | Successor to ChimeraGPT, ex-largest free openai proxy                                           |
 | AirAI                                         | [D](https://discord.gg/CWB6uw7qJj)                                                                    | ✅             | ❌<sup>3</sup>   | ❌             | ❌  | ❌      | ❌  | ❌                                  | Meh-Low           | Unlimited           | Poor API Support/Maintenance, ran by a _very_ young dev.                                        |
@@ -147,10 +147,10 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 ## Star History
 
-<a href="https://star-history.com/zukixa/free-ai-apis&Date">
+<a href="https://star-history.com/zukixa/cool-ai-stuff&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zukixa/free-ai-apis&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zukixa/cool-ai-stuff&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zukixa/cool-ai-stuff&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zukixa/cool-ai-stuff&type=Date" />
   </picture>
 </a>
