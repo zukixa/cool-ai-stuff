@@ -122,6 +122,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
 | https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py)                         | GPT-3.5-16k at best              |
 | https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py)               | GPT-4?              |
+| https://armai-dev.github.io/Mayzer/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/Geekgpt.py) | GPT-4, GPT-3.5 |
 
 #### AI Image Websites:
 
