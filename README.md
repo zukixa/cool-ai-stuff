@@ -73,7 +73,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of October 2023.**
+> Data given without warranty of any kind. **As of November 2023.**
 
 **You are welcome to contribute to this list by opening a pull request!**
 
