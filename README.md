@@ -15,7 +15,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service                                       | Link                                                                                                  | `gpt-3`        | `-4`             | `cla-ude`       | IMG | TTS-STT | EMB | NSFW Ok?                           | Stable?           | -4 Limits on-join   | Additional Notes                                                                                |
 | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ---------------- | -------------- | --- | ------- | --- | ----------------------------------- | ----------------- | ------------------- | ----------------------------------------------------------------------------------------------- |
 | [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/kvYDFZY7XZ)                                                                    | ✅             | ✅               | ✅             | ✅  | ✅      | ✅  | ✅<sup>1</sup>                     | High              | 3/min               | created by the absolute banger :fire: :fire: :fire:                                             |
-| GeniusAI by zukijourney                                      | [D](https://discord.gg/nzpvqSDGAx)                                                     | ✅             | ✅               |  ✅              | ❌  | ❌      | ❌  | ✅<sup>1</sup>                   | High              | Unlimited (Donation)  | Provides private endpoints that are high quality, mainly ran on zukijourney.           |
+| GeniusAI by zukijourney                       | [D](https://discord.gg/nzpvqSDGAx)                                                     | ✅             | ✅               |  ✅              | ❌  | ❌      | ❌  | ✅<sup>1</sup>                   | High              | Unlimited (Donation)  | Provides private endpoints that are high quality, mainly ran on zukijourney.           |
 | [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ✅      | ✅  | ❓                                  | High<sup>3</sup>  | ~300/day             | Successor to ChimeraGPT, ex-largest free openai proxy                                           |
 | ShuttleAI                                     | [D](https://discord.gg/qZFZSbZ4fJ)                                                                    | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ❌      | ❌  | ✅                                  | Meh              | 10/min | Faked GPT-4 before: [1](https://prnt.sc/o8n29Nq4VO86), [2](https://prnt.sc/oq8LUtO_EmeL), [3](https://prnt.sc/IvsnjL_FpkQc) 
 | Nyx AI                                        | [D](https://discord.gg/9bqRWAP74f)                                                                    | ✅             | ✅               | ✅             | ✅    | ❌      | ❌  | ❓                                  | Meh              | Unlimited(?)                   | Small, new provider. Not that experienced.  |
@@ -23,8 +23,9 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Galaxy AI                                     | [D](https://discord.gg/UDMaAgS62q)                                                                    | ✅             | ❌<sup>3</sup>               | ✅              | ✅   | ❌      | ❌  | ❓                                  | High              | ~100/day            | Mysterious, yet solid provider. Friendly to NSFW, creative branding.    |
 | [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/U645yeT5T9)                                                                    | ✅             | ❌               | ✅<sup>4</sup> | ✅  | ❌      | ❌  | ❌                                  | High              | 0                   | WebRaft Partner, Extremely Strict ToS, offers own OSS model Aura                                |
 | ArtyAI                                        | [D](https://discord.gg/bRWFAQF4nd)                                                                     | ✅            | ❌              | ❌            | ❌ | ❌     | ❌ | ✅                                  | High               | 0                 | Hosted by NSFW RP fans.             |
-| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌<sup>3</sup>  | ❌<sup>3</sup>                | ✅             | ✅  | ✅      | ✅  | ❌                                  | Low              | 0                   | Skailar Partner, free endpoint currently is dead.                                        |
-| Mandrill                                      | [D](https://discord.gg/BRZzm4djJM)                                                                           | ❌            | ❌              | ❌            | ✅ | ✅     | ❌ | ❓                                  | High               | 0                 | Hosted by SprykAI affiliates. Focused on non-GPT models.                                                       |
+| WebRaft AI                                    | [D](https://discord.gg/XwxUdHhF59)                                                                    | ❌<sup>3</sup>  | ❌<sup>3</sup>                | ❌<sup>3</sup>         | ✅  | ✅      | ✅  | ❌                                  | Low              | 0                   | Skailar Partner, free endpoint currently is dead.                                        |
+| Mandrill                                      | [D](https://discord.gg/BRZzm4djJM)                                                                           | ❌            | ✅              | ❌            | ✅ | ✅     | ❌ | ❓                                  | High               | 0                 | Hosted by SprykAI affiliates. Focused on non-GPT models.                                                       |
+| AIExperiment                             | [D](https://discord.gg/u2PQGBk5fP)                                                                               |   ✅    | ❌    | ❌        | ✅  | ✅ | ❌ | ✅ | High | 0 | Gain API Credits by talking, no other method. Interesting alternative. |
 | [VisionCraft](https://rohkife.domcloud.io)   | [T](https://t.me/visioncraft_channel) [G](https://github.com/Metim0l/VisionCraft)                               | ❌      | ❌     | ❌       | ✅  | ❌  | ❌  | No | High | No | API for image generation. Unlimited requests.
 
 
@@ -95,41 +96,61 @@ This repository contains an uncensored list of free to use APIs and sites for se
 ## Site List:<sup>*</sup>
 <sup>*: This list solely covers all providers I know that are out there, and actually functioning. They have been mentioned before elsewhere, but they're all collected now in one spot.</sup>
 
-#### AI Chat Websites / "Potential gpt4free Providers":
+### AI Chat Websites / "Potential gpt4free Providers":
 <sup>If you decide to reverse a site from the list below, it would be a great community service for you to add your code to xtekky's gpt4free github, as it is best to share your sources :)</sup>
-| Website      | A Reverse-Engineer's Notes         | Additional Info |
-|--------------|------------------------------------|-----------------|
+This list can indeed be split into multiple parts to better organize the data. It seems useful to segregate the sites based on the model they offer. The three main categories are GPT-3.5, GPT-4, and ambiguous situations where the GPT version is still being ascertained or potentially upgradeable (let's call these "Uncertain/Potential GPT-4"?).
+
+#### Websites offering GPT-3.5 ONLY
+
+| Website | A Reverse-Engineer's Notes | Additional Info |
+|---------|----------------------------|-----------------|
+| https://koala.sh/chat | IP-Based Rate Limit | GPT-3.5 only |
+| https://ai.berlin4h.top | Weird, but automatable login | GPT-3.5 only |
+| https://ai.ai365.ink | Cloudflare problems | GPT-3.5 only |
+| https://chatanywhere.cn/#/home/chat | IP-Ban-happy provider | GPT-3.5 only |
+| https://chat.getgpt.world/ | Google reCAPTCHA is used | GPT-3.5-16k at best |
+| https://powerchat.top/ | Cloudflare problems + account generator needed | GPT-3.5-16k best model |
+| https://aqua.xyz/chat | Site is a mess | GPT-3.5-16k at best |
+| http://chat.gptplus.one/ | Secret Key is used | GPT-3.5-16k at best |
+| https://nav.dingtoucake.xyz/ | Fuck Websockets | GPT-3.5-16k at best |
+| Aria from opera | App decompile is needed | GPT-3.5-16k at best |
+| https://alpha.bito.co/bitoai/ | Email verification needed | GPT-3.5-16k at best |
+| https://easy-peasy.ai/chat | Email verification needed, potentially low limits | Just 3.5, possibilities of -4 with free trials of sorts |
+| https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py) | GPT-3.5-16k at best |
+| https://cgs.skybyte.me/ | Chaotic redirect system | GPT-3.5-16k at best most likely. |
+
+#### Websites offering GPT-4 ONLY
+
+| Website | A Reverse-Engineer's Notes | Additional Info |
+|---------|----------------------------|-----------------|
+| https://perplexity.ai | The Magnum-Opus, Tried, Revved, but not yet fully. | Current best GPT-4: https://github.com/helallao/perplexity-ai |
+| https://chat.gpt.bz/#/chat | Google Account's needed | GPT-4 |
+| https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py) | GPT-4 |
+| https://armai-dev.github.io/Mayzer/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/Geekgpt.py) | GPT-4 |
+
+#### Websites with Uncertain/Potential GPT-4 models
+
+| Website | A Reverse-Engineer's Notes | Additional Info |
+|---------|----------------------------|-----------------|
 | https://www.ealxc.com/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://www.ealxc.cn/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://ai.haydenstudio.hk/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://api.兔七.com/ | qq emails needed | GPT-4? |
-| https://aivesa.cn/ | Locked behind Logins | GPT-4?  |
-| https://chat.getgpt.world/ | Google reCAPTCHA is used                | GPT-3.5-16k at best              |
-| https://powerchat.top/ | Cloudflare problems + account generator needed                  | GPT-3.5-16k best model              |
-| https://chat.gpt.bz/#/chat | Google Account's needed                     | GPT-4?              |
-| https://chat.tinycms.xyz:3002/ / https://chat.leadscloud.xyz/ | Google reCAPTCHA is used | Potential GPT-4?              |
-| https://www.aisoftworks.com/chat | Account generator is needed               | Potential GPT-4?              |
-| https://aqua.xyz/chat | Site is a mess                               | GPT-3.5-16k at best              |
-| http://chat.gptplus.one/ | Secret Key is used                         | GPT-3.5-16k at best              |
-| https://nav.dingtoucake.xyz/ | Fuck Websockets                        | GPT-3.5-16k at best              |
-| https://halist.ai/app/ | App decompile is needed          | GPT-4?              |
-| https://useadrenaline.com/app | App decompile is needed          | GPT-4?              |
-| https://flot.ai/ | App decompile is needed          | GPT-4?              |
-| https://aigc.kungfu.wang/ | Account generator needed               | GPT-4 possible              |
-| Aria from opera | App decompile is needed          | GPT-3.5-16k at best              |
-| https://magic.ninomae.cn/ | Account generator is needed               | GPT-4?              |
+| https://aivesa.cn/ | Locked behind Logins | GPT-4? |
+| https://chat.tinycms.xyz:3002/ / https://chat.leadscloud.xyz/ | Google reCAPTCHA is used | Potential GPT-4? |
+| https://www.aisoftworks.com/chat | Account generator is needed | Potential GPT-4? |
+| https://halist.ai/app/ | App decompile is needed | GPT-4? |
+| https://useadrenaline.com/app | App decompile is needed | GPT-4? |
+| https://flot.ai/ | App decompile is needed | GPT-4? |
+| https://aigc.kungfu.wang/ | Account generator needed | GPT-4 possible |
+| https://magic.ninomae.cn/ | Account generator is needed | GPT-4? |
 | https://api.daifuku.cloud/ | qq emails needed | GPT-4? |
-| https://gpt.freet.top/ | highly confusing | GPT-4? |
-| https://alpha.bito.co/bitoai/ | email verification needed | GPT-3.5-16k at best |
-| https://easy-peasy.ai/chat | email verification needed, potentially low limits | just 3.5, possibilities of -4 with free trials of sorts |
+| https://gpt.freet.top/ | Highly confusing | GPT-4? |
 | chat.ai-zc.com | qq email needed | GPT-4 available |
-| https://cgs.skybyte.me/ | chaotic redirect system | GPT-3.5-16k at best most likely. |
-| freedomgpt.com | account generator/ email needed | GPT-4 available |
-| https://botqna.com/chat | email/account gen needed | GPT-4 available |
-| https://hidegpt.app | Binary message websockets (lmao) | it's a GPT obfuscator, unsure the model              |
-| https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py)                         | GPT-3.5-16k at best              |
-| https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py)               | GPT-4?              |
-| https://armai-dev.github.io/Mayzer/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/Geekgpt.py) | GPT-4, GPT-3.5 |
+| freedomgpt.com | Account generator/ email needed | GPT-4 available |
+| https://botqna.com/chat | Email/account gen needed | GPT-4 available |
+| https://hidegpt.app | Binary message websockets (lmao) | It's a GPT obfuscator, unsure the model |
+
 
 #### AI Image Websites:
 
