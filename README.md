@@ -104,25 +104,30 @@ This list can indeed be split into multiple parts to better organize the data. I
 
 | Website | A Reverse-Engineer's Notes | Additional Info |
 |---------|----------------------------|-----------------|
-| https://koala.sh/chat | IP-Based Rate Limit | GPT-3.5 only |
-| https://ai.berlin4h.top | Weird, but automatable login | GPT-3.5 only |
 | https://ai.ai365.ink | Cloudflare problems | GPT-3.5 only |
+| https://anonchatgpt.com/ | Google Re-Captcha | GPT-3.5 only |
+| https://chatgptunli.com | Login restrictions | GPT-3.5 only |
+| https://www.papayagpt.com | IP-Ban-Happy provider | GPT-3.5-Turbo-16k at best |
 | https://chatanywhere.cn/#/home/chat | IP-Ban-happy provider | GPT-3.5 only |
 | https://chat.getgpt.world/ | Google reCAPTCHA is used | GPT-3.5-16k at best |
 | https://powerchat.top/ | Cloudflare problems + account generator needed | GPT-3.5-16k best model |
 | https://aqua.xyz/chat | Site is a mess | GPT-3.5-16k at best |
 | http://chat.gptplus.one/ | Secret Key is used | GPT-3.5-16k at best |
 | https://nav.dingtoucake.xyz/ | Fuck Websockets | GPT-3.5-16k at best |
-| Aria from opera | App decompile is needed | GPT-3.5-16k at best |
+| Aria from Opera | App decompile is needed | GPT-3.5-16k at best |
 | https://alpha.bito.co/bitoai/ | Email verification needed | GPT-3.5-16k at best |
 | https://easy-peasy.ai/chat | Email verification needed, potentially low limits | Just 3.5, possibilities of -4 with free trials of sorts |
-| https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py) | GPT-3.5-16k at best |
 | https://cgs.skybyte.me/ | Chaotic redirect system | GPT-3.5-16k at best most likely. |
+| https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py) | GPT-3.5-16k at best |
+| https://koala.sh/chat | Revv'd on gpt4free | GPT-3.5 only |
+| https://ai.berlin4h.top | Revv'd on gpt4free | GPT-3.5 only |
 
 #### Websites offering GPT-4 ONLY
 
 | Website | A Reverse-Engineer's Notes | Additional Info |
 |---------|----------------------------|-----------------|
+| https://wrtn.ai | Email verification needed | Korean mess. (but GPT-4!) |
+| https://ch4.cch137.link/ | Infamously weird anti-bot system | [1](https://media.discordapp.net/attachments/1103435639757754379/1144221291226877972/image0.png?ex=655f2d9e&is=654cb89e&hm=eea6c35e3ae9ada454f3a8965bd8a05f9aa355bdd8616dd311974867a2e8a898&=&width=1284&height=1280)
 | https://perplexity.ai | The Magnum-Opus, Tried, Revved, but not yet fully. | Current best GPT-4: https://github.com/helallao/perplexity-ai |
 | https://chat.gpt.bz/#/chat | Google Account's needed | GPT-4 |
 | https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py) | GPT-4 |
@@ -132,6 +137,7 @@ This list can indeed be split into multiple parts to better organize the data. I
 
 | Website | A Reverse-Engineer's Notes | Additional Info |
 |---------|----------------------------|-----------------|
+| https://www.zaimaai.cn | Unstable Service | Maybe GPT-4? |
 | https://www.ealxc.com/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://www.ealxc.cn/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://ai.haydenstudio.hk/ | Locked behind Logins | GPT-4? Midjourney too? |
@@ -158,6 +164,7 @@ This list can indeed be split into multiple parts to better organize the data. I
 |--------------|-----------------|
 | [mstai](https://mst.ai/home) | SD Models         |
 | [aitubo](https://aitubo.ai/) | SD Models         |
+| [mage](https://www.mage.space/) | SD Models | 
 | [outpainter](https://outpainter.app) | Outpainting functionality |
 | [picfinder](https://picfinder.ai/) | Mix of AI images and Google Image Search |
 
