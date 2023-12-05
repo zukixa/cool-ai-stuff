@@ -162,9 +162,9 @@ This list can indeed be split into multiple parts to better organize the data. I
 
 | Website      | Additional Info |
 |--------------|-----------------|
-| [mstai](https://mst.ai/home) | SD Models         |
+| [mstai](https://mst.xyz/home) | SD Models         |
 | [aitubo](https://aitubo.ai/) | SD Models         |
-| [mage](https://www.mage.space/) | SD Models | 
+| [mage](https://www.mage.space/) | SD Models, but CF-protected :< | 
 | [outpainter](https://outpainter.app) | Outpainting functionality |
 | [picfinder](https://picfinder.ai/) | Mix of AI images and Google Image Search |
 
@@ -175,9 +175,9 @@ This list can indeed be split into multiple parts to better organize the data. I
 | [andisearch](https://andisearch.com/) | AI Search Engine    |
 | [scite](https://scite.ai) / [inciteful](https://inciteful.xyz) | AI Research Search Engines |
 | [hashnode](https://hashnode.com/rix) | AI Search Engine (Revv'd in g4f)   |
-| [ndpnt](https://voice.ndpnt.co/) | Free TTS         |
+| [freetts]((https://freetts.com)) | Free TTS         |
 | [iask](https://iask.ai/) | AI Search Engine    |
-| [heypi](https://heypi.com/talk) | Custom LLM model by InflectionAI |
+| [heypi](https://heypi.com/talk) | Custom LLM model by InflectionAI (Revv'd in g4f) |
 | [mancer](https://mancer.tech/models.html) | Free mythomax-13b |
 
 
