@@ -137,6 +137,11 @@ This list can indeed be split into multiple parts to better organize the data. I
 
 | Website | A Reverse-Engineer's Notes | Additional Info |
 |---------|----------------------------|-----------------|
+| https://chatgpt-app.techwithanirudh.repl.co/login | . | Maybe GPT-4? |
+| https://airoom.chat/room | . | Maybe GPT-4? |
+| http://gpt4.aiseo.lat/triglav/index | . | Maybe GPT-4? |
+| https://aappt.opao.xyz/chat | . | Maybe GPT-4? |
+| https://xhlgpt.com/ | . | Maybe GPT-4? |
 | https://www.zaimaai.cn | Unstable Service | Maybe GPT-4? |
 | https://www.ealxc.com/ | Locked behind Logins | GPT-4? Midjourney too? |
 | https://www.ealxc.cn/ | Locked behind Logins | GPT-4? Midjourney too? |
