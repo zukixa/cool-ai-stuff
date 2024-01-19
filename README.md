@@ -38,10 +38,9 @@ This repository contains an uncensored list of free to use APIs and sites for se
 #### Donator Potential per Service:
 | Service | Perks | Donation Cost |
 | ------- | ------ | ------------- |
-| zukijourney | 8/min limit, Midjourney on Disc. Bot, high quality AI uncensored image generation, & more | $5+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
+| zukijourney | >8/min limit, Midjourney on Disc. Bot, high quality AI uncensored image generation, & more | $5+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
 | Naga AI | Potentially Higher Limits, much more stable provider pool, stable GPT-4, midjourney | >$10, [check here](https://cdn.discordapp.com/attachments/408486840677695498/1159774585865121873/Screenshot_2023-10-06_at_1.49.58_AM.png?ex=65323f40&is=651fca40&hm=0528ccb7c24dabc6841dee8fd9b3cfe1af6f7af2f2d993c4f8a62bc2f8cc9228&)
 | Mandrill | 6x higher GPT-4 rate limits, stable DALLE-3, expanded GPT-4 Vision access | $5/month |
-| GeniusAI | Private Endpoint/API | ~$2-5/month or ask @perl404 |
 | WebraftAI | More requests, actual operations GPT-4&32k, custom models | [check here](https://www.patreon.com/Webraft) |
 
 
@@ -179,7 +178,7 @@ This list can indeed be split into multiple parts to better organize the data. I
 | [andisearch](https://andisearch.com/) | AI Search Engine    |
 | [scite](https://scite.ai) / [inciteful](https://inciteful.xyz) | AI Research Search Engines |
 | [hashnode](https://hashnode.com/rix) | AI Search Engine (Revv'd in g4f)   |
-| [freetts]((https://freetts.com)) | Free TTS         |
+| [freetts](https://freetts.com) | Free TTS         |
 | [iask](https://iask.ai/) | AI Search Engine    |
 | [heypi](https://heypi.com/talk) | Custom LLM model by InflectionAI (Revv'd in g4f) |
 | [mancer](https://mancer.tech/models.html) | Free mythomax-13b |
