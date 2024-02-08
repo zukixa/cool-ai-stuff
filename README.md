@@ -33,6 +33,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service | Perks | Donation Cost |
 | ------- | ------ | ------------- |
 | zukijourney | >10/min limit, Midjourney on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
+| ShuttleAI | >20/min, >2000 requests per day. Higher stability. Access to premium models (gpt-4-turbo-preview, claude-2.1, dall-e-3, midjourney, etc.) | [starting @ $4.99/mo](https://discord.com/servers/shuttleai-1152262611291869237) |
 | Oxygen | Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
 | Naga AI | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney | >$10, [check here](https://naga.ac/dashboard/models)
 | Mandrill | 6x higher GPT-4 rate limits, stable DALLE-3, expanded GPT-4 Vision access | $5/month |
