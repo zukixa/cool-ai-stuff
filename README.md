@@ -70,8 +70,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 |-------------|----------------|----------------|------------|-------------|-----------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| ✅              | ✅              | ✅          | ✅           | ✅         |
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| ✅              | ✅              | ✅          | ✅           | ✅         |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ✅           | ❌         |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | ✅              | ✅              | ✅          | ❌           | ❌         |
-| [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ❌           | ❌         |
 | [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅              | ❌              | ❌          | ✅           | ❌         |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌              | ❌              | ✅          | ❌           | ❌         |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌              | ❌              | ❌          | ❌           | ❌         |
