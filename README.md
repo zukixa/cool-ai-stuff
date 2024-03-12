@@ -7,7 +7,15 @@ This repository contains an uncensored list of free to use APIs and sites for se
 ***
 > [!WARNING]  
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
+***
+# APIs Table of Contents
+#### [Overview of Existing APIs](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md#overview-of-apis) 
+#### [Overview of Existing APIs -- Top LLM Models Available](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md#overview-of-apis----llm-models) 
+#### [Overview of Existing APIs -- Top Image Models Available](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md#overview-of-apis----image-models) 
+#### [Overview of Existing APIs -- Top Other Features & Models Available](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md#overview-of-apis----other-features) 
+#### [Overview of Existing APIs -- Available Donator Perks](https://github.com/zukixa/cool-ai-stuff/blob/main/README.md#donator-potential-per-service) 
 
+***
 ## API List:<sup>*</sup>
 <sup>*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> \
 <sup>1: Last Updated 3/12/24</sup>
