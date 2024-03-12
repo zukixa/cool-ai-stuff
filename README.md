@@ -85,7 +85,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | ------- | ------ | ------------- |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| >10/min limit, Midjourney on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)| Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
-| [NagaAI](https://discord.gg/JxRBXBhabu)  | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney | >$10, [check here](https://naga.ac/dashboard/models)
+| [NagaAI](https://discord.gg/JxRBXBhabu)  | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney, dall-e-3 && more | >=$5, [check here](https://naga.ac/dashboard/models)
 | [WebRaftAI](https://discord.gg/webraftai)| More requests, access to models like 32k&gpt4turbo, custom models | [check here](https://www.patreon.com/Webraft) |
 
 > [!NOTE]  
