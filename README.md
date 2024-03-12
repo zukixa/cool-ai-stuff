@@ -9,83 +9,84 @@ This repository contains an uncensored list of free to use APIs and sites for se
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
 
 ## API List:<sup>*</sup>
-<sup>*: This list solely covers all providers known to me (@zukixa). If I miss any, I do not hold responsibility for such.</sup>
-#### Layer 1's (Wrapper upon OpenAI):
+<sup>*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> \
+<sup>1: Last Updated 3/12/24</sup>
 
-| Service                                       | Link                                                                                                  | `gpt-3`        | `-4`             | `cla-ude`       | IMG | TTS-STT | EMB | NSFW Ok?                           | Stable?           | -4 Limits on-join   | Additional Notes                                                                                |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ---------------- | -------------- | --- | ------- | --- | ----------------------------------- | ----------------- | ------------------- | ----------------------------------------------------------------------------------------------- |
-| [zukijourney](https://zukijourney.xyzbot.net) | [D](https://discord.gg/Y4J6XXnmQ6)                                                                    | ✅             | ✅               | ✅             | ✅  | ✅      | ✅  | ✅<sup>1</sup>                     | High              | ~800/day (depends in the prompt)               | created by queen herself :fire: :fire: :fire:                                         |
-| [Oxygen](https://docs.oxyapi.uk/)             | [D](https://discord.com/invite/kM6MaCqGKA)|  ✅            | ✅              |✅            | ✅ | ✅     | ✅  | ✅<sup>5</sup>                                   | High               | 100/day                 | New dev, small API, but seems solid. |
-| [ShuttleAI](https://shuttleai.app/)                                     | [D](https://discord.gg/shuttleai)                                                                   | ✅             | ✅<sup>3</sup>   | ✅             | ✅  | ✅      | ✅  | ✅                                  | [Bad](https://files.catbox.moe/mx7saf.png)              | 5/min | Faked GPT-4 before: [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)
-| [KrakenAI](https://chat.cracked.systems/)     | [D](https://discord.gg/krakenai) |  ✅            | ✅              |✅            | ✅ | ❌     | ❌ | ❌                                   | High               | 300/day                 | Hosted by the airdrop racoon, a g4f legend & great dev. Provider used may lack good history context management.
-| [WebRaftAI](https://api3.webraft.in/)                                    | [D](https://discord.gg/357Pf33u4B)                                                                    | ✅  | ✅                | ✅        | ✅  | ✅      | ✅  | ❌<sup>2</sup>                                  | High              | 5/day                   | Skailar Partner, [Previously accused of GPT-4-Turbo faking.](https://ibb.co/xCHyX1Z)                |                      
-| [Naga AI](https://naga.ac)                    | [D](https://discord.naga.ac/) [T](https://t.me/chimera_ai)                                            | ✅             | ❌<sup>3</sup>   |  ✅             | ✅  | ✅      | ✅  | ❌                                  | High  | 0            | Successor to ChimeraGPT, ex-largest free openai proxy                                           |
-| [Skailar](https://chat.skailar.net/)          | [D](https://discord.gg/pZNbxY2H4g)                                                                  | ✅             | ❌               | ✅<sup>4</sup> | ✅  | ❌      | ❌  | ❌                                  | High              | 0                   | WebRaft Partner, Extremely Strict ToS, offers own OSS model Aura.                                |
-| ArtyAI                                        | [D](https://discord.gg/zd56MxejjY)                                                                     | ✅            | ❌              | ❌            | ❌ | ❌     | ❌ | ✅                                  | High               | 0                 | Hosted by NSFW RP fans.             |
-| [VisionCraft](https://api.visioncraft.top)   | [T](https://t.me/visioncraft_channel) [G](https://github.com/Metim0l/VisionCraft)                               | ✅      | ✅     | ❌       | ✅  | ✅  | ❌  | ❌ | High | 1/minute | Mainly an image-generation API.
+### Overview of APIs:
+| Service     | # of Users<sup>1</sup> | Link                                       | Stablity                                   | NSFW Ok?                    | Open Source?                                           | Owner(s)                   | Other Notes                                                                                                 |
+| ----------- | ---------- | ------------------------------------------ | ------------------------------------------ | --------------------------- | ------------------------------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 3896       | [D](https://discord.com/invite/Y4J6XXnmQ6) | High                                       | On /unf/, not /v1/          | ✅, [Here](https://github.com/zukixa/zukijourney-api) | @zukixa                    | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too.             |
+| [Hentai - ZJ](https://discord.gg/mtFamBcarU)| 1050       | [D](https://discord.gg/mtFamBcarU)         | High                                       | On /rp/, not /v1/           | ✅, [Here](https://github.com/zukixa/zukijourney-api) | @voidii & @thatlukinhasguy | 'Experimental' Sister-API to zukijourney.                                                                   |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 2771       | [D](https://discord.gg/JxRBXBhabu)         | High                                       | Forbidden                   | ❌                                                     | @zentixua                  | Honorary successor to ChimeraGPT, the largest API in history (15k users).                                   |
+| [WebRaftAI](https://discord.gg/webraftai)  | 945        | [D](https://discord.gg/webraftai)          | High                                       | Forbidden                   | ❌                                                     | @ds_gamer                  | Largest API by model count. Provides a lot of service/hosting related stuff too.                            |
+| [KrakenAI](https://discord.gg/krakenai)   | 289        | [D](https://discord.gg/krakenai)           | High                                       | Discouraged                 | ❌                                                     | @paninico                  | Provider utilized behaves weird due to no internal support of message history.                              |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | 691        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | Bri'ish 🤮 & Fren'sh 🤮                                                                                                 |
+| [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | 397        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
+| [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | 348        | [D](https://discord.com/invite/taH8UnARwd) | Medium                                     | Forbidden                   | ❌                                                     | @niklas2290                | New API w/ AI Bots included, not just API. Own UI too.                                                      |
+| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | 293        | [D](https://discord.com/invite/YXyqmUW9Sz) | Medium                                     | Unknown                     | ❌                                                     | @tonka1250                 | Collector of many providers, has a lot of unique models available.                                          |
+| [FreeGPT  ](https://discord.gg/gpt4)    | 7270       | [D](https://discord.gg/gpt4)               | Low                                        | With gpt-3.5-rp or gpt-4-rp | ❌                                                     | @lomusire                  | Somewhat unstable, and very highly surveilled service. But when operational, it is good. Has AI-Bots too!   |
+| [ShuttleAI  ](https://discord.gg/shuttleai) | 3539       | [D](https://discord.gg/shuttleai)          | [Low](https://files.catbox.moe/mx7saf.png) | Discouraged                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 
-<sup>1: NSFW allowed under special /unfiltered/ endpoint.</sup>\
-<sup>2: Has not explicitly banned the usage of the API for NSFW. </sup>\
-<sup>3: These services *do* have GPT-4/stability, but the free versions available are not particularly reliable,  currently available, or require tickets.</sup>\
-<sup>4: It's Claude-1, but the difference to 2 isn't huge.</sup>\
-<sup>5: Only open source models are allowed for NSFW</sup>
+### Overview of APIs -- LLM Models:
+| Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
+|-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| ~800/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
+| [Hentai - ZJ](https://discord.gg/mtFamBcarU)| ~300/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
+| [KrakenAI](https://discord.gg/krakenai)   | ~150/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
+| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ~150/day              | ✅      | ❌         | ✅              | ❌                 | [A fuckton.](https://pocket.holabo.co/webui.php) | [A fuckton.](https://pocket.holabo.co/webui.php) |
+| [ShuttleAI  ](https://discord.gg/shuttleai) | ~5/min                | ✅      | 💰         | 💰              | ❌                 | N/A                                              | dolphin-mistral, airoboros-70b                   |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
+| [WebRaftAI](https://discord.gg/webraftai)  | ~5/day                | ✅      | ❌         | 💰              | ❌                 | Any model from https://ollama.ai + falcon-180b   | xwin70b, mythomist/mythomax, dolphin-mistral     |
+| [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | N/A                                              |
+| [FreeGPT  ](https://discord.gg/gpt4)    | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-4-rp & gpt-3.5-rp                            |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 0                     | 💰      | 💰         | ✅              | ❌                 | N/A                                              | N/A                                              |
+| [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
+
+### Overview of APIs -- Image Models:
+| Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
+|-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
+| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [Hentai - ZJ](https://discord.gg/mtFamBcarU)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ❌       |
+| [KrakenAI](https://discord.gg/krakenai)   | ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ❌       |
+| [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [WebRaftAI](https://discord.gg/webraftai)  | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
+| [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
+| [FreeGPT  ](https://discord.gg/gpt4)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
+
+### Overview of APIs -- Other Features:
+| Service     | Text-To-Speech | Speech-To-Text | Embeddings | Translation | Upscaling |
+|-------------|----------------|----------------|------------|-------------|-----------|
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| ✅              | ✅              | ✅          | ✅           | ✅         |
+| [Hentai - ZJ](https://discord.gg/mtFamBcarU)| ✅              | ✅              | ✅          | ✅           | ✅         |
+| [ShuttleAI  ](https://discord.gg/shuttleai) | ✅              | ✅              | ✅          | ❌           | ❌         |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ❌           | ❌         |
+| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅              | ❌              | ❌          | ✅           | ❌         |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌              | ❌              | ✅          | ❌           | ❌         |
+| [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌              | ❌              | ❌          | ❌           | ❌         |
+| [KrakenAI](https://discord.gg/krakenai)   | ❌              | ❌              | ❌          | ❌           | ❌         |
+| [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
+| [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
+| [FreeGPT  ](https://discord.gg/gpt4)    | ❌              | ❌              | ❌          | ❌           | ❌         |
+
 #### Donator Potential per Service:
 | Service | Perks | Donation Cost |
 | ------- | ------ | ------------- |
-| zukijourney | >10/min limit, Midjourney on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
-| Oxygen | Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
-| Naga AI | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney | >$10, [check here](https://naga.ac/dashboard/models)
-| Mandrill | 6x higher GPT-4 rate limits, stable DALLE-3, expanded GPT-4 Vision access | $5/month |
-| WebraftAI | More requests, access to models like 32k&gpt4turbo, custom models | [check here](https://www.patreon.com/Webraft) |
-
-
-
-
-#### Other OpenAI-esque services:
-| Service                                       | Link                                                                                                  | OpenAI? | Additional Notes |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------- | ------ |
-| [AnalogAI](https://api.analogai.in/)          | [D](https://discord.gg/arqszhBACb)                                                                    | GPT-4 & GPT-4-32k      | OpenAI Key Reseller, involved in drama |
-| pawan.krd                                     | [D](https://discord.gg/pawan)                                                                         | No | Ex-Largest OpenAI proxy, now provides own model, including NSFW ones. |
-
-|Legend: |
-| -- |
-| **W**ork **i**n **P**rogress | 
-| **IM**a**G**e Generation | 
-| **T**ext **T**o **S**peech | 
-| **S**peech **T**o **T**ext | 
-| **EMB**eddings | 
-| Is usage in RP, like **NSFW, Ok?** | 
-| Is the API **Stable?** | 
-| **GPT-4 Limits** immediately **@ (server) join** | 
-| **D**iscord , **M**atrix , **T**elegram |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| >10/min limit, Midjourney on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)| Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
+| [NagaAI](https://discord.gg/JxRBXBhabu)  | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney | >$10, [check here](https://naga.ac/dashboard/models)
+| [WebRaftAI](https://discord.gg/webraftai)| More requests, access to models like 32k&gpt4turbo, custom models | [check here](https://www.patreon.com/Webraft) |
 
 > [!NOTE]  
 > A lot of the services also support specific models for donators, but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of November 2023.**
+> Data given without warranty of any kind. **As of March 2024.**
 
 **You are welcome to contribute to this list by opening a pull request!**
-
-#### API Graveyard:
-| Service                                       | Link                                                                                                  | `gpt-3`        | `-4`             | `cla-ude`       | IMG | TTS-STT | EMB | NSFW Ok?                           | Stable?           | -4 Limits on-join   | Additional Notes                                                                                |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------- | ---------------- | -------------- | --- | ------- | --- | ----------------------------------- | ----------------- | ------------------- | ----------------------------------------------------------------------------------------------- |
-[hentAI](https://api.hentaigpt.xyz) | [D](https://discord.gg/htsVd3qjBP) | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅<sup>1</sup> | High | 3/min | Great product by a great dev. Integrated into zukijourney |
-| GeniusAI by zukijourney                       | [D](https://discord.gg/nzpvqSDGAx)                                                     | ✅             | ✅               |  ✅              | ❌  | ❌      | ❌  | ✅<sup>1</sup>                   | High              | Unlimited (Donation)  | Integrated into zukijourney.         |
-| Nyx AI                                        | [D](https://discord.gg/9bqRWAP74f)                                                                    | ✅             | ✅               | ✅             | ✅    | ❌      | ❌  | ❓                                  | Meh              | Unlimited(?)                   | Small, new provider. Not that experienced.  |
-| Mandrill                                      | [D](https://discord.gg/BRZzm4djJM)                                                                           | ✅            | ✅              | ❌            | ✅ | ✅     | ❌ | ❌                                   | High               | 100/day                 | Focused on non-GPT models. Offline due to owner team lacking time for upkeep                                                      |                                                |
-| NovaAI               | _All links dead_ | ✅             | ✅<sup>3</sup>   | ❌             | ✅  | ❌      | ✅  | ❌                                  | Meh               | ~20/day             | From collapse, to community server, to further collapse, to eventual deletion due to gambling. |
-| AIExperiment                             | [D](https://discord.gg/u2PQGBk5fP)                                                                               |   ✅    | ❌    | ❌        | ✅  | ✅ | ❌ | ✅ | High | 0 | Gain API Credits by talking, no other method. Interesting alternative. |
-| DeltaAI                                       | [D](https://discord.gg/WWNZnNvsCK)                                                                    | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ✅                                  | WIP               | WIP                 | Owner is a criminal: [1](https://cdn.discordapp.com/attachments/1104609262954622996/1174112586652995624/Screenshot_2023-09-02-16-05-57-528_com.discord.jpg?ex=6566688e&is=6553f38e&hm=67b08ecbbc91a70d51f5e69d11796b360bf4c8471fd68f901dab05dc5166f792&), [2](https://cdn.discordapp.com/attachments/1104609262954622996/1174112587122749561/image-10.png?ex=6566688e&is=6553f38e&hm=24cfcea05ab60c4bfee53e92d09da6b520ef4d01991db0aa2166173757063f16&), [3](https://cdn.discordapp.com/attachments/1104609262954622996/1174112587500228688/Screenshot_2023-09-02-16-06-10-989_com.discord.jpg?ex=6566688e&is=6553f38e&hm=21e6efe95b783b818bf6721cd0bd7f7e25f7ae3b5be5c2b90aed7c5c98150fee&) |
-| UnderscoreAI                                       | [D](https://discord.gg/8hkMV2yq8q)                                                                    | ❌            | ❌              | ❌            | ❌ | ❌     | ❌ | ❌                                  | DOWN               | DOWN                 | The owner shut the api down.
-| [DakuWorks](https://api.daku.tech/)           | [D](https://discord.gg/eW3NqUxq5d)                                                                    |  ❌              |  ❌                |  ❌                 |   ❌    |    ❌        |   ❌     |                ❌                       |      No            |      0                | **API IMPLODED DUE TO CULTISH BEHAVIOR FAILURE. IT DOES NOT WORK, ONLY PRIVATE ENDP/KEY GIVEN BY OWNER CAN BE USED (YOU MOST LIKELY CANT GET ONE)**                    |
-| ElectronAI                                    | [D](https://discord.gg/NftbxzgHJT)                                                                      | WIP            | WIP              | WIP            | WIP | WIP     | WIP | ❓                                  | WIP               | WIP                 | Very slow release, might never come out.                                                        |
-| AirAI                                         | [D](https://discord.gg/CWB6uw7qJj)                                                                    | ✅             | ❌<sup>3</sup>   | ❌             | ❌  | ❌      | ❌  | ❌                                  | Meh-Low           | Unlimited           | Poor API Support/Maintenance, ran by a _very_ young dev.                                        |
-| Chatty (AIR AI Precursor | [D](https://discord.gg/KT9MWZ64w8)   |  ❌              |  ❌                |  ❌                 |   ❌    |    ❌        |   ❌     |                ❌                       |      No            |      0                | n/a |
-| Churchless | [D](https://discord.gg/vuheSY27gV)   |  ❌              |  ❌                |  ❌                 |   ❌    |    ❌        |   ❌     |                ❌                       |      No            |      0                | Previously ran by a freeGPT legend, now inactive |
-| CattoGPT | [D](https://discord.gg/cattogpt)  |  ❌              |  ❌                |  ❌                 |   ❌    |    ❌        |   ❌     |                ❌                       |      No            |      0                | n/a |
-| Galaxy AI                                     | [D](https://discord.gg/UDMaAgS62q)                                                                    | ✅             | ❌<sup>3</sup>               | ✅              | ✅   | ❌      | ❌  | ❓                                  | High              | ~100/day            | Service has been dead for a while now. No free API   |
-| SapphireGPT  | [M](https://matrix.to/#/#cyclonegpt:m.darkcoder15.tk) [T](https://t.me/+1waoIqepLUoxNDgy)             | ✅     | ❌     |     ❌      | ✅  | ❌  | ✅  | ✅  | Meh <sup>2</sup>  |[Here](https://prnt.sc/Mm8if4u5OfAt) | Currently w/o active providers
 
 ## Site List:<sup>*</sup>
 <sup>*: This list solely covers all providers I know that are out there, and actually functioning. They have been mentioned before elsewhere, but they're all collected now in one spot.</sup>
