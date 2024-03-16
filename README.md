@@ -51,7 +51,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [FreeGPT](https://discord.gg/gpt4) | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-4-rp & gpt-3.5-rp                            |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 
-### Overview of APIs -- Image Models:
+### Overview of APIs -- Image Models Sorted by Availability:
+
 | Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
 |-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
 | [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
@@ -59,9 +60,9 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [WebRaftAI](https://discord.gg/webraftai)  | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
-| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ❌       |
-| [KrakenAI](https://discord.gg/krakenai)   | ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ❌       |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
+| [KrakenAI](https://discord.gg/krakenai)   | ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ❌       |
+| [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ❌       |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 | [FreeGPT  ](https://discord.gg/gpt4)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
