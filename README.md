@@ -35,7 +35,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [FreeGPT  ](https://discord.gg/gpt4)    | 7270       | [D](https://discord.gg/gpt4)               | Low                                        | With gpt-3.5-rp or gpt-4-rp | ❌                                                     | @lomusire                  | Somewhat unstable, and very highly surveilled service. But when operational, it is good. Has AI-Bots too!   |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 3539       | [D](https://discord.gg/shuttleai)          | [Low](https://files.catbox.moe/mx7saf.png) | Discouraged                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 
-### Overview of APIs -- LLM Models Sorted by the Number of Models Available:
+### Overview of APIs -- LLM Models Sorted by the Number of free GPT-4 requests available Daily:
 
 | Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
 |-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
