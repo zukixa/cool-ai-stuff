@@ -39,17 +39,17 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 | Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
 |-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
-| [PocketAI](https://discord.com/invite/YXyqmUW9Sz) | ~150/day              | ✅      | ❌         | ✅              | ❌                 | [A fuckton.](https://pocket.holabo.co/webui.php) | [A fuckton.](https://pocket.holabo.co/webui.php) |
-| [HentAI - ZJ](https://discord.gg/mtFamBcarU) | ~300/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | ~800/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
-| [KrakenAI](https://discord.gg/krakenai) | ~150/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
-| [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | 💰         | ✅              | ❌                 | mixtral, claude-instant, bark, xtts-v2           | N/A                                              |
+| [HentAI - ZJ](https://discord.gg/mtFamBcarU) | ~300/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
+| [PocketAI](https://discord.com/invite/YXyqmUW9Sz) | ~150/day              | ✅      | ❌         | ✅              | ❌                 | [A fuckton.](https://pocket.holabo.co/webui.php) | [A fuckton.](https://pocket.holabo.co/webui.php) |
 | [ShuttleAI](https://discord.gg/shuttleai) | ~5/min                | ✅      | 💰         | 💰              | ❌                 | N/A                                              | dolphin-mistral, airoboros-70b                   |
-| [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
-| [WebRaftAI](https://discord.gg/webraftai) | ~5/day                | ✅      | ❌         | 💰              | ❌                 | Any model from https://ollama.ai + falcon-180b   | xwin70b, mythomist/mythomax, dolphin-mistral     |
+| [KrakenAI](https://discord.gg/krakenai) | ~25/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
+| [WebRaftAI](https://discord.gg/webraftai) | ~5/day                | ✅      | ❌         | 💰              | ❌                 | Any model from https://ollama.ai + falcon-180b   | xwin70b, mythomist/mythomax, dolphin-mistral     |
 | [ConvoAI](https://discord.com/invite/taH8UnARwd) | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | N/A                                              |
 | [FreeGPT](https://discord.gg/gpt4) | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-4-rp & gpt-3.5-rp                            |
+| [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | 💰         | ✅              | ❌                 | mixtral, claude-instant, bark, xtts-v2           | N/A                                              |
+| [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 
 ### Overview of APIs -- Image Models Sorted by Availability:
 
