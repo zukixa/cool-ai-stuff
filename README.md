@@ -42,12 +42,12 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| ~300/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
 | [KrakenAI](https://discord.gg/krakenai)   | ~150/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
 | [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ~150/day              | ✅      | ❌         | ✅              | ❌                 | [A fuckton.](https://pocket.holabo.co/webui.php) | [A fuckton.](https://pocket.holabo.co/webui.php) |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 0                     | 💰      | 💰         | ✅              | ❌                 | mixtral, claude-instant, bark, xtts-v2                                              | N/A                                              |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | ~5/min                | ✅      | 💰         | 💰              | ❌                 | N/A                                              | dolphin-mistral, airoboros-70b                   |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
 | [WebRaftAI](https://discord.gg/webraftai)  | ~5/day                | ✅      | ❌         | 💰              | ❌                 | Any model from https://ollama.ai + falcon-180b   | xwin70b, mythomist/mythomax, dolphin-mistral     |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | N/A                                              |
 | [FreeGPT  ](https://discord.gg/gpt4)    | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-4-rp & gpt-3.5-rp                            |
-| [NagaAI](https://discord.gg/JxRBXBhabu)     | 0                     | 💰      | 💰         | ✅              | ❌                 | N/A                                              | N/A                                              |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 
 ### Overview of APIs -- Image Models:
@@ -56,11 +56,11 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [WebRaftAI](https://discord.gg/webraftai)  | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ❌       |
 | [KrakenAI](https://discord.gg/krakenai)   | ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ❌       |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
-| [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
-| [WebRaftAI](https://discord.gg/webraftai)  | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 | [FreeGPT  ](https://discord.gg/gpt4)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
