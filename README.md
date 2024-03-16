@@ -45,11 +45,11 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [KrakenAI](https://discord.gg/krakenai) | ~150/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | 💰         | ✅              | ❌                 | mixtral, claude-instant, bark, xtts-v2           | N/A                                              |
 | [ShuttleAI](https://discord.gg/shuttleai) | ~5/min                | ✅      | 💰         | 💰              | ❌                 | N/A                                              | dolphin-mistral, airoboros-70b                   |
+| [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 | [WebRaftAI](https://discord.gg/webraftai) | ~5/day                | ✅      | ❌         | 💰              | ❌                 | Any model from https://ollama.ai + falcon-180b   | xwin70b, mythomist/mythomax, dolphin-mistral     |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
 | [ConvoAI](https://discord.com/invite/taH8UnARwd) | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | N/A                                              |
 | [FreeGPT](https://discord.gg/gpt4) | ~5/day                | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-4-rp & gpt-3.5-rp                            |
-| [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 
 ### Overview of APIs -- Image Models Sorted by Availability:
 
