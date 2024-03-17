@@ -31,7 +31,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | 691        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | 397        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | 348        | [D](https://discord.com/invite/taH8UnARwd) | Medium                                     | Forbidden                   | ❌                                                     | @niklas2290                | New API w/ AI Bots included, not just API. Own UI too.                                                      |
-| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | 293        | [D](https://discord.com/invite/YXyqmUW9Sz) | Medium                                     | Unknown                     | ❌                                                     | @tonka1250                 | Collector of many providers, has a lot of unique models available.                                          |
 | [FreeGPT  ](https://discord.gg/gpt4)    | 7270       | [D](https://discord.gg/gpt4)               | Low                                        | With gpt-3.5-rp or gpt-4-rp | ❌                                                     | @lomusire                  | Somewhat unstable, and very highly surveilled service. But when operational, it is good. Has AI-Bots too!   |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 3539       | [D](https://discord.gg/shuttleai)          | [Low](https://files.catbox.moe/mx7saf.png) | Discouraged                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 
@@ -41,7 +40,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 |-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | ~800/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU) | ~300/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
-| [PocketAI](https://discord.com/invite/YXyqmUW9Sz) | ~150/day              | ✅      | ❌         | ✅              | ❌                 | [A fuckton.](https://pocket.holabo.co/webui.php) | [A fuckton.](https://pocket.holabo.co/webui.php) |
 | [ShuttleAI](https://discord.gg/shuttleai) | ~5/min                | ✅      | 💰         | 💰              | ❌                 | N/A                                              | dolphin-mistral, airoboros-70b                   |
 | [KrakenAI](https://discord.gg/krakenai) | ~25/day              | ✅      | ✅         | ✅              | ❌                 | Any model available on https://poe.com           | Any "RP" model available on https://poe.com      |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
@@ -55,7 +53,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 | Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
 |-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
-| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
@@ -74,7 +71,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [HentAI - ZJ](https://discord.gg/mtFamBcarU)| ✅              | ✅              | ✅          | ✅           | ✅         |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ✅           | ❌         |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | ✅              | ✅              | ✅          | ❌           | ❌         |
-| [PocketAI  ](https://discord.com/invite/YXyqmUW9Sz)   | ✅              | ❌              | ❌          | ✅           | ❌         |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌              | ❌              | ✅          | ❌           | ❌         |
 | [ConvoAI  ](https://discord.com/invite/taH8UnARwd)    | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [KrakenAI](https://discord.gg/krakenai)   | ❌              | ❌              | ❌          | ❌           | ❌         |
