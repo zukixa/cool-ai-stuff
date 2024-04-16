@@ -121,7 +121,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py) | GPT-3.5-16k at best |
 | https://koala.sh/chat | Revv'd on gpt4free | GPT-3.5 only |
 | https://ai.berlin4h.top | Revv'd on gpt4free | GPT-3.5 only |
-| https://xhlgpt.com/ | Web Reverse Engineering，maximum context length 10.7k。 | GPT-3.5-turbo-16k  |
+| https://xhlgpt.com/ | Web Reverse Engineering and maximum context length 10.7k | GPT-3.5-turbo-16k  |
 
 #### Websites offering GPT-4 ONLY
 
