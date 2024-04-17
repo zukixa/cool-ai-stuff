@@ -50,7 +50,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 
 | Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
 |-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
-| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ✅                   | ✅           | ✅               | ✅       |
 | [Hyzenberg](https://discord.gg/ECUEFQzATa)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [WebRaftAI](https://discord.gg/webraftai)  | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
