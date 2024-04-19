@@ -125,7 +125,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://ai.gptforlove.com/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptForLove.py) | GPT-3.5-16k at best |
 | https://koala.sh/chat | Revv'd on gpt4free | GPT-3.5 only |
 | https://ai.berlin4h.top | Revv'd on gpt4free | GPT-3.5 only |
-| https://xhlgpt.com/ | Web Reverse Engineering and maximum context length 10.7k | GPT-3.5-turbo-16k  |
+| https://xhlgpt.com/ | Web Reverse Engineering and a maximum context length of 5-13K,where fewer messages can accommodate more data.The official version includes hidden prompt words for each message. | GPT-3.5-turbo-16k  |
 
 #### Websites offering GPT-4 ONLY
 
@@ -137,6 +137,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | https://chat.gpt.bz/#/chat | Google Account's needed | GPT-4 |
 | https://gptgod.site/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/GptGod.py) | GPT-4 |
 | https://armai-dev.github.io/Mayzer/ | [Revv'd](https://github.com/xtekky/gpt4free/blob/main/g4f/Provider/Geekgpt.py) | GPT-4 |
+| https://www.mylittleintern.com | Good | GPT-4&3.5 |
+| https://chatgptgateway.dev.munic.io | Good.However the responses on the website tend to get truncated at the end. | GPT-4&3.5 |
 
 #### Websites with Uncertain/Potential GPT-4 models
 
