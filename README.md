@@ -45,7 +45,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [ShuttleAI](https://discord.gg/shuttleai) | 500/day                | ✅      | 💰         | 💰              | 💰                 | Own model called shuttle-1/-2                                             | dolphin-mistral, airoboros-70b                   |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | ~33/day  | ✅      | ❌         | ❌              | ❌                 | N/A                                              | gpt-3.5-turbo-rp, gpt-4-rp                       |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
-| [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 | llama-3, mixtral, bark, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
+| [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 | llama-3, command-r-plus, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 
 ### Overview of APIs -- Image Models Sorted by Availability:
