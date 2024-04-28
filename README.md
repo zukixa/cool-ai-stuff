@@ -55,7 +55,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ✅                   | ✅           | ✅               | ✅       |
 | [Hyzenberg](https://discord.gg/ECUEFQzATa)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [WebRaftAI](https://discord.gg/webraftai)  | 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
-| [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | ❌                   | ✅           | ✅               | ✅       |
+| [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | 💰                   | ✅           | ✅               | ✅       |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅  |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
