@@ -32,6 +32,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | 931 | [D](https://discord.gg/7W49ZfdsS2) | Medium | Enterprise-Tier-Only | ❌  | @fredipy | DALL-E-3 access pioneering API. Has some issues with speed & stability nowadays.
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 399        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
+| [FresedGPT](https://discord.com/invite/T98HVEGxeV)    | 64        | [D](https://discord.com/invite/T98HVEGxeV)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
 
 
 ### Overview of APIs -- LLM Models Sorted by General Model Availability:
@@ -47,6 +48,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 | llama-3, command-r-plus, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
+| [FresedGPT](https://discord.com/invite/T98HVEGxeV) | 60/min            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
 
 ### Overview of APIs -- Image Models Sorted by Availability:
 
@@ -61,6 +63,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
+|[FresedGPT](https://discord.com/invite/T98HVEGxeV) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
+
 
 ### Overview of APIs -- Other Features:
 | Service     | Text-To-Speech | Speech-To-Text | Embeddings | Translation | Upscaling |
@@ -74,6 +78,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
+|[FresedGPT](https://discord.com/invite/T98HVEGxeV)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 
 
 #### Donator Potential per Service:
