@@ -106,9 +106,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 ### AI Chat Websites / "Potential gpt4free Providers":
 <sup>If you decide to reverse a site from the list below, it would be a great community service for you to add your code to xtekky's gpt4free github, as it is best to share your sources :)</sup>
 
-## **Note:** This section is not an actively maintained anymore. A much more active list of potential providers, reverse engineering sources, and other related AI aspects can be found on @nsde's https://vace.pw
-
-
 #### Websites offering GPT-3.5 ONLY
 
 | Website | A Reverse-Engineer's Notes | Additional Info |
