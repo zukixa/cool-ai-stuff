@@ -1,3 +1,4 @@
+
  # Free AI APIs & Sites
 This repository contains an uncensored list of free to use APIs and sites for several AI models. 
 > *This list is mainly managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
@@ -33,8 +34,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 399        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
 | [FresedGPT](https://discord.gg/VXHmDWXXR4)    | 64        | [D](https://discord.gg/VXHmDWXXR4)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
-
-
+| [GoldAI](https://discord.gg/fEM9PkfMPk)    | ~30        | [D](https://discord.gg/fEM9PkfMPk)        | High (So Far)                                     | Allowed                   | ❌                                                     | 
 ### Overview of APIs -- LLM Models Sorted by General Model Availability:
 
 | Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
@@ -49,6 +49,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 | llama-3, command-r-plus, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 | [FresedGPT](https://discord.gg/VXHmDWXXR4) | 60/min            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
+| [GoldAI](https://discord.gg/fEM9PkfMPk) | 15/min            | ✅       |✅          | ❌              | ✅                 | Llama3 and 2| No but RP is Allowed on all models                                              |
 
 ### Overview of APIs -- Image Models Sorted by Availability:
 
@@ -64,6 +65,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 |[FresedGPT](https://discord.gg/VXHmDWXXR4) | ✅ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
+|[GoldAI](https://discord.gg/fEM9PkfMPk) | ❌ |      ❌   | ✅      | ❌         | ❌   | ✅               | ✅       |
 
 
 ### Overview of APIs -- Other Features:
@@ -79,6 +81,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
 |[FresedGPT](https://discord.gg/VXHmDWXXR4)  | ❌              | ❌              | ❌          | ❌           | ❌         |
+|[GoldAI](https://discord.gg/fEM9PkfMPk)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 
 
 #### Donator Potential per Service:
@@ -90,6 +93,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu)  | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney, dall-e-3 && more | >=$5, [check here](https://naga.ac/dashboard/models)
 | [WebRaftAI](https://discord.gg/webraftai)| Higher credits, stablest + faster API with access to all exclusive models | [check here](https://www.patreon.com/Webraft) |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | Unlimited DALL-E-3 & Uncensored Models | [check here](https://ko-fi.com/mandrillai/tiers) |
+| [GoldAI](https://discord.gg/fEM9PkfMPk) | Nothing yet but eternal fame and gratiude to those who donate and maybe some perks can be worked out. |
 
 
 > [!NOTE]  
