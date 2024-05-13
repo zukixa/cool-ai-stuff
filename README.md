@@ -1,7 +1,7 @@
 
  # Free AI APIs & Sites
 This repository contains an uncensored list of free to use APIs and sites for several AI models. 
-> *This list is mainly managed by @zukixa, the queen of zukijourney, so any decisions may have bias!~*
+> *This list is mainly managed by @zukixa, the queen of [zukijourney](https://github.com/zukijourney), so any decisions may have bias!~*
 >  
 > **Scroll down for the sites, APIs come first!**
 
