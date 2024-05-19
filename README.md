@@ -25,7 +25,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service     | # of Users<sup>1</sup> | Link                                       | Stablity                                   | NSFW Ok?                    | Open Source?                                           | Owner(s)                   | Other Notes                                                                                                 |
 | ----------- | ---------- | ------------------------------------------ | ------------------------------------------ | --------------------------- | ------------------------------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 4441       | [D](https://discord.com/invite/Y4J6XXnmQ6) | High                                       | On /unf/, not /v1/          | ✅, [Here](https://github.com/zukixa/zukijourney-api) | @zukixa                    | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too.             |
-| [Hyzenberg](https://discord.gg/ECUEFQzATa)| 1234       | [D](https://discord.gg/ECUEFQzATa)         | High                                       | Forbidden          | ❌ | @thatlukinhasguy & @voidiii | Experimental sister API to Zukijourney. Successor to HentAI                                                                 |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 2883       | [D](https://discord.gg/JxRBXBhabu)         | High                                       | Forbidden                   | ❌                                                     | @zentixua                  | Honorary successor to ChimeraGPT, the largest API in history (15k users).                                   |
 | [WebRaftAI](https://api.webraft.in/dashboard)  | 1004        | [D](https://discord.gg/webraftai)          | High                                       | Forbidden                   | ❌                                                     | @ds_gamer                  | Largest AI API by model count. Provides dedicated hosting and many different services          |
 | [KrakenAI](https://discord.gg/krakenai) | 388 | [D](https://discord.gg/krakenai) | High | Discouraged | ❌ | @paninico | It is an API of all time. |
@@ -40,7 +39,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
 |-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | ~501/day              | ✅      | ✅         | ✅              | ✅                 | Own model called caramelldansen-1 & (-1-plus), sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
-| [Hyzenberg](https://discord.gg/ECUEFQzATa) | 150/day              | ✅      | ✅         | ✅              | ✅                 | sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
 | [KrakenAI](https://discord.gg/krakenai) | ~25/day | ✅ | ✅ | ✅ | ❌ | Any model available on https://poe.com | Any "RP" model available on https://poe.com |
 | [WebRaftAI](https://discord.gg/webraftai) | ~35/day                | ✅      | 💰          | ✅              | ❌                 | Models from ollama, hf and custom model: SynapseLLM   | xwin70b, mythomist/mythomax, dolphin-mistral     |
 | [ShuttleAI](https://discord.gg/shuttleai) | 500/day                | ✅      | 💰         | 💰              | 💰                 | Own model called shuttle-1/-2                                             | dolphin-mistral, airoboros-70b                   |
@@ -56,7 +54,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
 |-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ✅                   | ✅           | ✅               | ✅       |
-| [Hyzenberg](https://discord.gg/ECUEFQzATa)| 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [WebRaftAI](https://discord.gg/webraftai)  | 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | 💰                   | ✅           | ✅               | ✅       |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
@@ -76,7 +73,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [ShuttleAI  ](https://discord.gg/shuttleai) | ✅              | ✅              | ✅          | ❌           | ❌         |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | ✅              | ✅              | ✅          | ❌           | ❌         |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌              | ❌              | ✅          | ❌           | ❌         |
-| [Hyzenberg](https://discord.gg/ECUEFQzATa) | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
@@ -88,7 +84,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | Service | Perks | Donation Cost |
 | ------- | ------ | ------------- |
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| Even higher request limits, more premium models, Midjourney & Dalle-3 on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
-| [Hyzenberg](https://discord.gg/ECUEFQzATa) | 15/min request speed, no daily limit | $8/mo
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)| Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
 | [NagaAI](https://discord.gg/JxRBXBhabu)  | Potentially Higher Limits, much more stable provider pool, actual GPT-4 at ~10/min, midjourney, dall-e-3 && more | >=$5, [check here](https://naga.ac/dashboard/models)
 | [WebRaftAI](https://discord.gg/webraftai)| Higher credits, stablest + faster API with access to all exclusive models | [check here](https://www.patreon.com/Webraft) |
