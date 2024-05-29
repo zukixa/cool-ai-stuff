@@ -32,12 +32,14 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 3585       | [D](https://discord.gg/shuttleai)          | Medium | Generally Permitted                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 399        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
-| [FresedGPT](https://discord.gg/VXHmDWXXR4)    | 152        | [D](https://discord.gg/VXHmDWXXR4)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
+
+| [FresedGPT](https://discord.gg/VXHmDWXXR4)    | 160        | [D](https://discord.gg/VXHmDWXXR4)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
 | [GoldAI](https://discord.gg/fEM9PkfMPk)    | 140        | [D](https://discord.gg/fEM9PkfMPk)        | High (So Far)                                     | Allowed                   | ❌                                                     | 
+
 ### Overview of APIs -- LLM Models Sorted by General Model Availability:
 
-| Service     | Free Limits for GPT-4 | GPT-4? | Claude-3? | Mistral-Large? | Gemini-1.5/Ultra? | Others?                                          | Cool RP?                                         |
-|-------------|-----------------------|--------|-----------|----------------|-------------------|--------------------------------------------------|--------------------------------------------------|
+| Service                                              | Free Limits for GPT-4 | GPT-4?  | Claude-3?   | Mistral-Large?  | Gemini-1.5/Ultra?   | Others?                                          | Cool RP?                                         |
+|------------------------------------------------------|-----------------------|---------|-------------|-----------------|---------------------|--------------------------------------------------|--------------------------------------------------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | ~501/day              | ✅      | ✅         | ✅              | ✅                 | Own model called caramelldansen-1 & (-1-plus), sonar-medium, mixtral, gemma, inflection/pi      | mythomist/mythomax, cinematika, goliath-120b     |
 | [KrakenAI](https://discord.gg/krakenai) | ~25/day | ✅ | ✅ | ✅ | ❌ | Any model available on https://poe.com | Any "RP" model available on https://poe.com |
 | [WebRaftAI](https://discord.gg/webraftai) | ~35/day                | ✅      | 💰          | ✅              | ❌                 | Models from ollama, hf and custom model: SynapseLLM   | xwin70b, mythomist/mythomax, dolphin-mistral     |
@@ -49,10 +51,11 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [FresedGPT](https://discord.gg/VXHmDWXXR4) | 60/min            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
 | [GoldAI](https://discord.gg/fEM9PkfMPk) | 15/min            | ✅       |✅          | ❌              | ✅                 | Llama3 and 2| No but RP is Allowed on all models                                              |
 
+
 ### Overview of APIs -- Image Models Sorted by Availability:
 
-| Service     | Midjourney? | DALLE-3? | SDXL? | Stable-Diffusion-3? | Kandinsky3? | PlaygroundV2.5? | Others? |
-|-------------|-------------|----------|-------|---------------------|-------------|-----------------|---------|
+| Service                                             | Midjourney?  | DALLE-3?   | SDXL?  | Stable-Diffusion-3?   | Kandinsky3?  | PlaygroundV2.5?   | Others?  |
+|-----------------------------------------------------|--------------|------------|--------|-----------------------|--------------|-------------------|----------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| 💰           | ✅        | ✅     | ✅                   | ✅           | ✅               | ✅       |
 | [WebRaftAI](https://discord.gg/webraftai)  | 💰           | ✅        | ✅     | ❌                   | ✅           | ✅               | ✅       |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 💰           | 💰        | ✅     | 💰                   | ✅           | ✅               | ✅       |
@@ -65,9 +68,10 @@ This repository contains an uncensored list of free to use APIs and sites for se
 |[GoldAI](https://discord.gg/fEM9PkfMPk) | ❌ |      ❌   | ✅      | ❌         | ❌   | ✅               | ✅       |
 
 
+
 ### Overview of APIs -- Other Features:
-| Service     | Text-To-Speech | Speech-To-Text | Embeddings | Translation | Upscaling |
-|-------------|----------------|----------------|------------|-------------|-----------|
+| Service                                             | Text-To-Speech  | Speech-To-Text   | Embeddings  | Translation   | Upscaling  |
+|-----------------------------------------------------|-----------------|------------------|-------------|---------------|------------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| ✅              | ✅              | ✅          | ✅           | ✅         |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ✅           | ❌         |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | ✅              | ✅              | ✅          | ❌           | ✅         |
@@ -78,6 +82,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
 |[FresedGPT](https://discord.gg/VXHmDWXXR4)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 |[GoldAI](https://discord.gg/fEM9PkfMPk)  | ❌              | ❌              | ❌          | ❌           | ❌         |
+
 
 
 #### Donator Potential per Service:
