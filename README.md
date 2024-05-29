@@ -32,9 +32,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 3585       | [D](https://discord.gg/shuttleai)          | Medium | Generally Permitted                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 399        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
-
 | [FresedGPT](https://discord.gg/VXHmDWXXR4)    | 160        | [D](https://discord.gg/VXHmDWXXR4)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
-| [GoldAI](https://discord.gg/fEM9PkfMPk)    | 140        | [D](https://discord.gg/fEM9PkfMPk)        | High (So Far)                                     | Allowed                   | ❌                                                     | 
+| [GoldAI](https://discord.gg/fEM9PkfMPk)    | 140        | [D](https://discord.gg/fEM9PkfMPk)        | High (So Far)                                     | Allowed                   | ❌                                                     | @ ?? | ??
 
 ### Overview of APIs -- LLM Models Sorted by General Model Availability:
 
@@ -48,7 +47,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 |  llama-3, command-r-plus, mistral-large, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
-| [FresedGPT](https://discord.gg/VXHmDWXXR4) | 60/min            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
+| [FresedGPT](https://discord.gg/VXHmDWXXR4) | 25/min            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
 | [GoldAI](https://discord.gg/fEM9PkfMPk) | 15/min            | ✅       |✅          | ❌              | ✅                 | Llama3 and 2| No but RP is Allowed on all models                                              |
 
 
