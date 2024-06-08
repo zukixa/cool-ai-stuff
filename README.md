@@ -63,8 +63,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
 | [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
-|[FresedGPT](https://discord.gg/JecEC5my4T) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
-|[GoldAI](https://discord.gg/fEM9PkfMPk) | ❌ |      ❌   | ✅      | ❌         | ❌   | ✅               | ✅       |
+| [FresedGPT](https://discord.gg/JecEC5my4T) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
+| [GoldAI](https://discord.gg/fEM9PkfMPk) | ❌ |      ❌   | ✅      | ❌         | ❌   | ✅               | ✅       |
 
 
 
@@ -79,8 +79,8 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
-|[FresedGPT](https://discord.gg/JecEC5my4T)  | ✅              | ❌              | ❌          | ❌           | ❌         |
-|[GoldAI](https://discord.gg/fEM9PkfMPk)  | ❌              | ❌              | ❌          | ❌           | ❌         |
+| [FresedGPT](https://discord.gg/JecEC5my4T)  | ✅              | ❌              | ❌          | ❌           | ❌         |
+| [GoldAI](https://discord.gg/fEM9PkfMPk)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 
 
 
