@@ -34,7 +34,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)    | 430        | [D](https://discord.gg/HjHdbrj5Uc)         | Medium                                     | Forbidden                   | ❌                                                     | @aquadraws                 | Service is the personification of the word 'feature creep'. Lots of things announced, not much operational. |
 | [FresedGPT](https://discord.gg/JecEC5my4T)    | 281        | [D](https://discord.gg/JecEC5my4T)         | Medium                                     | Forbidden                   | ❌                                                     | @fresed                 | Small beginner api, stable openai models |
-| 	~~[GoldAI](https://discord.gg/fEM9PkfMPk)~~    | ~~249~~        | ~~[D](https://discord.gg/fEM9PkfMPk)~~        | ~~High (So Far)~~                                     | ~~Allowed~~                   | ❌                                                     | ~~@ ??~~ | ~~??~~
 
 ### Overview of APIs -- LLM Models Sorted by General Model Availability:
 
@@ -50,7 +49,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 |  llama-3, command-r-plus, mistral-large, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
 | [FresedGPT](https://discord.gg/JecEC5my4T) | ~1000/day or 125/day            | ✅       |✅          | ✅              | ✅                 | llama models| N/A                                              |
-| ~~[GoldAI](https://discord.gg/fEM9PkfMPk)~~ | ~~15/min~~            | ✅       |✅          | ❌              | ✅                 | ~~Llama3 and 2~~| ~~No but RP is Allowed on all models~~                                              |
 
 
 ### Overview of APIs -- Image Models Sorted by Availability:
@@ -66,7 +64,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 |[FresedGPT](https://discord.gg/JecEC5my4T) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
-|~~[GoldAI](https://discord.gg/fEM9PkfMPk)~~ | ❌ |      ❌   | ✅      | ❌         | ❌   | ✅               | ✅       |
 
 
 
@@ -82,7 +79,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [WebRaftAI](https://discord.gg/webraftai)  | ❌              | ❌              | ❌          | ❌           | ❌         |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌              | ❌              | ❌          | ❌           | ❌         |
 |[FresedGPT](https://discord.gg/JecEC5my4T)  | ✅              | ❌              | ❌          | ❌           | ❌         |
-|~~[GoldAI](https://discord.gg/fEM9PkfMPk)~~  | ❌              | ❌              | ❌          | ❌           | ❌         |
 
 
 
@@ -94,7 +90,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [NagaAI](https://discord.gg/JxRBXBhabu) | Significantly higher limits, a more stable provider pool, actual GPT-4 with high limits (depending on account tier), Claude-3, Stable Diffusion 3, Midjourney, DALL-E 3, and much more | starting from $5, [check here](https://naga.ac/dashboard/models)
 | [Mandrill](https://discord.gg/7W49ZfdsS2) | Unlimited DALL-E-3, up to 6000 GPT-4 requests/day, Claude-3 & Uncensored Models | [check here](https://ko-fi.com/mandrillai/tiers) |
 | [WebRaftAI](https://discord.gg/webraftai)| Higher credits, stablest + faster API with access to all exclusive models | [check here](https://www.patreon.com/Webraft) |
-| ~~[GoldAI](https://discord.gg/fEM9PkfMPk)~~ | ~~Nothing yet but eternal fame and gratiude to those who donate and maybe some perks can be worked out.~~ |
 
 
 > [!NOTE]  
