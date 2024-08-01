@@ -19,7 +19,7 @@ This repository contains an uncensored list of free to use APIs and sites for se
 ***
 ## API List:<sup>*</sup>
 <sup>*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> \
-<sup>1: Last Updated 7/22/24</sup>
+<sup>1: Last Updated 8/1/24</sup>
 
 ### Overview of APIs:
 | Service     | # of Users<sup>1</sup> | Link                                       | Stablity                                   | NSFW Ok?                    | Open Source?                                           | Owner(s)                   | Other Notes                                                                                                 |
@@ -28,7 +28,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [hentAI](https://api.hentaigpt.xyz)| 1048       | [D](https://discord.gg/hentai-zj-1127138833612427274) | High                                       | Only for premium users          | ✅, [Here](https://github.com/FreeGPT-AI/ht-api/) | @zukixa                    | ??             |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | 3090       | [D](https://discord.gg/JxRBXBhabu)         | High                                       | Forbidden                   | ❌                                                     | @zentixua                  | Honorary successor to ChimeraGPT, the largest API in history (15k users).                                   |
 | [WebRaftAI](https://api.webraft.in/dashboard)  | 1202        | [D](https://discord.gg/webraftai)          | High                                       | Forbidden                   | ❌                                                     | @ds_gamer                  | Largest AI API by model count. Provides dedicated hosting and many different services          |
-| [Mandrill](https://discord.gg/7W49ZfdsS2) | 1168 | [D](https://discord.gg/7W49ZfdsS2) | High | Enterprise-Tier and above | ❌  | @fredipy | DALL-E-3 access pioneering API. Also offers large-scale plans.
 | [KrakenAI](https://discord.gg/krakenai) | 581 | [D](https://discord.gg/krakenai) | High | Discouraged | ❌ | @paninico | It is an API of all time. |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 3668       | [D](https://discord.gg/shuttleai)          | Medium | Generally Permitted                 | ❌                                                     | @xtristan                  | Faked GPT-4 Before [1](https://ibb.co/qpvmN0K), [2](https://ibb.co/M7sw16V)                                 |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA)     | 742        | [D](https://discord.com/invite/kM6MaCqGKA) | Medium                                     | Donator-Only                | ❌                                                     | @thesketchubuser           | [Bri'ish 🤮](https://files.catbox.moe/9x1k16.png) & [Fren'sh 🤮](https://files.catbox.moe/tbkfbg.png)                                                                                                 |
@@ -44,7 +43,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [KrakenAI](https://discord.gg/krakenai) | ~25/day | ✅ | ✅ | ✅ | ❌ | Any model available on https://poe.com | Any "RP" model available on https://poe.com |
 | [WebRaftAI](https://discord.gg/webraftai) | ~35/day                | ✅      | 💰          | ✅              | ❌                 | Models from ollama, hf and custom model: SynapseLLM   | xwin70b, mythomist/mythomax, dolphin-mistral     |
 | [ShuttleAI](https://discord.gg/shuttleai) | 500/day                | ✅      | 💰         | 💰              | 💰                 | Own model called shuttle-1/-2                                             | dolphin-mistral, airoboros-70b                   |
-| [Mandrill](https://discord.gg/7W49ZfdsS2) | 60/day  | ✅      | 💰         | ❌              | ❌                 | N/A                                              | gpt-3.5-turbo-rp, gpt-4-rp, claude (ERP possible with jailbreak)                       |
 | [oxygen](https://discord.com/invite/kM6MaCqGKA) | ~20/day               | ✅      | ❌         | ❌              | ❌                 | N/A                                              | lzlv-70b, dolphin-mistral                        |
 | [NagaAI](https://discord.gg/JxRBXBhabu) | 0                     | 💰      | ✅         | ✅              | ✅                 |  llama-3, command-r-plus, mistral-large, xtts-v2 and [others](https://api.naga.ac/v1/models)           | N/A                                              |
 | [Skailar](https://discord.gg/HjHdbrj5Uc) | 0                     | 💰      | 💰         | 💰              | ❌                 | "Soon" Own OSS Model called Aura.                | N/A                                              |
@@ -61,7 +59,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [ShuttleAI  ](https://discord.gg/shuttleai) | 💰           | 💰        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅  |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌           | ✅        | ✅     | ❌                   | ❌           | ❌               | ✅       |
-| [Mandrill](https://discord.gg/7W49ZfdsS2) |  ❌           | ✅        | ✅     | ❌                   | ❌           | ✅               | ✅       |
 | [Skailar  ](https://discord.gg/HjHdbrj5Uc)    | ❌           | ❌        | ❌     | ❌                   | ❌           | ❌               | ❌       |
 |[FresedGPT](https://discord.gg/JecEC5my4T) | ❌ |      ✅   | ❌      | ❌         | ❌   | ❌               | ❌       |
 
@@ -72,7 +69,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 |-----------------------------------------------------|-----------------|------------------|-------------|---------------|------------|
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| ✅              | ✅              | ✅          | ✅           | ✅         |
 | [NagaAI](https://discord.gg/JxRBXBhabu)     | ✅              | ✅              | ✅          | ✅           | ❌         |
-| [Mandrill](https://discord.gg/7W49ZfdsS2) | ✅              | ✅              | ✅          | ❌           | ✅         |
 | [ShuttleAI  ](https://discord.gg/shuttleai) | ✅              | ✅              | ✅          | ❌           | ❌         |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)     | ❌              | ❌              | ✅          | ❌           | ❌         |
 | [KrakenAI](https://discord.gg/krakenai) | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -88,7 +84,6 @@ This repository contains an uncensored list of free to use APIs and sites for se
 | [zukijourney](https://discord.com/invite/Y4J6XXnmQ6)| Even higher request limits, more premium models, Midjourney & Dalle-3 on Disc. Bot, much better & stabler provider pool, high quality AI uncensored image generation, & more | $5/mo+ or 2 server boosts, [check here](https://cdn.discordapp.com/attachments/1104609262954622996/1159775051609034782/Screenshot_2023-10-06_at_1.51.52_AM.png?ex=65323faf&is=651fcaaf&hm=a39ef6c688b520410743436c456a7dbe4323f423219c4b63fefdc3da8f9e1387&) |
 | [oxygen ](https://discord.com/invite/kM6MaCqGKA)| Unlimited Access, 1000 requests per day for each model, Early Access to the Latest AI(example : gpt-3.5-turbo-0125 or gpt-4-0125-preview...) , VIP Status 👑, NSFW Content Access for all models| $5.99/mo |
 | [NagaAI](https://discord.gg/JxRBXBhabu) | Significantly higher limits, a more stable provider pool, actual GPT-4 with high limits (depending on account tier), Claude-3, Stable Diffusion 3, Midjourney, DALL-E 3, and much more | starting from $5, [check here](https://naga.ac/dashboard/models)
-| [Mandrill](https://discord.gg/7W49ZfdsS2) | Unlimited DALL-E-3, up to 6000 GPT-4 requests/day, Claude-3 & Uncensored Models | [check here](https://ko-fi.com/mandrillai/tiers) |
 | [WebRaftAI](https://discord.gg/webraftai)| Higher credits, stablest + faster API with access to all exclusive models | [check here](https://www.patreon.com/Webraft) |
 
 
