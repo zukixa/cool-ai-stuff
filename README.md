@@ -2,7 +2,7 @@
 
 This repository is a showcase of AI APIs and Websites that offer free usage of some/many AI models.
 
-### A better overview is now available on our website! Check it out here [https://cas.xyzbot.net/](https://cas.xyzbot.net/)
+### A better overview is now available on our website! Check it out here [https://cas.zukijourney.com](https://cas.zukijourney.com)
 
 #### To be added, your API must be of clean record, >100 members, stable, and support at least all chat & image generation functionalities in the OpenAI format, [as displayed here](https://github.com/zukijourney/example-api)
 
@@ -19,7 +19,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 | Service                                              | # of Users<sup>1</sup> | NSFW/RP Ok?               | Open Source?                                          | Owner(s)                                               | Models                                             | Other Notes                                                                                     |
 | ---------------------------------------------------- | ---------------------- | ------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | 5265                   | Use /unf/chat... not /v1/ | ✅, [Here](https://github.com/zukixa/zukijourney-api) | [Our Team](https://github.com/orgs/zukijourney/people) | [Models](https://zukijourney.xyzbot.net/v1/models) | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too. |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | 5265                   | Use /unf/chat... not /v1/ | ✅, [Here](https://github.com/zukixa/zukijourney-api) | [Our Team](https://github.com/orgs/zukijourney/people) | [Models](https://api.zukijourney.com/v1/models) | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too. |
 | [NagaAI](https://discord.gg/JxRBXBhabu)              | 3143                   | Forbidden                 | ❌                                                    | [ZentixUA](https://github.com/ZentixUA)                | [Models](https://api.naga.ac/v1/models)            | Honorary successor to ChimeraGPT, the largest API in history (15k users).                       |
 | [KrakenAI](https://discord.gg/krakenai)              | 632                    | Allowed                   | ❌                                                    | [PaniniCo](https://api.cracked.systems)                | [Models](https://api.cracked.systems/v1/models)    | Small, long-term stable API. Runs on https://poe.com                                            |
 | [FresedGPT](https://discord.gg/JecEC5my4T)           | 475                    | Forbidden                 | ❌                                                    | [Fresed](https://github.com/qazplmqaz)                 | [Models](https://fresedgpt.space/v1/models)        | Small API maintained by a surprisingly commited dev. Good quality.                              |
@@ -68,7 +68,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 | Service       | Limits/Pricing Overview                                                                                | GPT-4 | Claude-3 | Gemini-1.5 | Llama-3.1-405b | Midjourney | DALL-E-3 | Stable-Image-Ultra | Stable-Diffusion-3 |
 | ------------- | ------------------------------------------------------------------------------------------------------ | ----- | -------- | ---------- | -------------- | ---------- | -------- | ------------------ | ------------------ |
-| zukijourney   | [Here](https://github.com/zukijourney/api-docs/blob/main/token-system/README.md)                       | ✅    | ✅       | ✅         | ✅             | 💰         | ✅       | 💰                 | ✅                 |
+| zukijourney   | [Here](https://docs.zukijourney.com/ai)                       | ✅    | ✅       | ✅         | ✅             | 💰         | ✅       | 💰                 | ✅                 |
 | NagaAI        | [Here](https://naga.ac/dashboard/models)                                                               | 💰    | ✅       | ✅         | ✅             | 💰         | 💰       | ❌                 | 💰                 |
 | KrakenAI      | [On Discord](https://discord.com/channels/1087061361273622603/1185707754468429925/1248679693507493978) | ✅    | ✅       | ✅         | ✅             | ❌         | ✅       | ❌                 | ✅                 |
 | FresedGPT     | [Here](https://fresed-api.gitbook.io/fresed-api/limit-system)                                          | ✅    | 💰       | ✅         | ✅             | ✅         | ✅       | ✅                 | ✅                 |
