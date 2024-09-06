@@ -31,6 +31,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | [Shard](https://discord.gg/rY85WpENSt)                    | 735                    | Only OSS-Models | ❌           | [Puzzy](https://github.com/Puzzy124)                    | [Models](http://api.shard-ai.xyz/v1/models)  | 'Edgiest' API with a controversial/questionable environment. Good service otherwise.                                |
 | [Oxygen](https://discord.com/invite/kM6MaCqGKA)           | 1060                   | Donator-Only    | ❌           | [TornadoSoftware](https://github.com/tornado-softwares) | [Models](https://app.oxyapi.uk/v1/models)    | Stole Website UI before, current likely is too. Offended at jokes easily. Service probably fine otherwise.          |
 | [ConvoAI](https://discord.gg/convoai-1205754298567495690) | 1333                   | Forbidden       | ❌           | [Niklas2290](https://discord.com/invite/taH8UnARwd)     | [Models](https://api.convoai.tech/v1/models) | Owner parades under a egirl-account. The reason is unknown. Nuked competitor servers before, denies having done so. |
+| [HeckerAi](https://discord.gg/CzTvEbUaHS)                 | N/A                    | N/A             | ❌           | N/A                                                     | N/A                                          | Does not support Claude, Gemini, or Llama models.                                                                  |
 
 #### Tier 3 -- Experimental, Unstable, Open-Access AI APIs:
 
