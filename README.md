@@ -13,7 +13,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 ## Overview of APIs
 
 <sup>\*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> \
-<sup>1: Last Updated 8/19/24</sup>
+<sup>1: Last Updated 9/6/24</sup>
 
 #### Tier 1 -- Established, Premium-Service AI API Leaders:
 
