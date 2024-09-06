@@ -111,7 +111,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Hecker        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
-| ZanityAI         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
+| ZanityAI         | ✅             | ❌             | ❌         | ✅    | ❌          | ❌            |
 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of September 2024.**
