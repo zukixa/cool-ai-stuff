@@ -13,7 +13,9 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 ## Overview of APIs
 
 <sup>\*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> \
-<sup>1: Last Updated 9/3/24</sup>
+
+<sup>1: Last Updated 9/6/24</sup>
+
 
 #### Tier 1 -- Established, Premium-Service AI API Leaders:
 
@@ -30,7 +32,8 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | --------------------------------------------------------- | ---------------------- | --------------- | ------------ | ------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [ConvoAI](https://discord.gg/convoai-1205754298567495690) | 1369                   | Forbidden       | ❌           | [Niklas2290](https://discord.com/invite/taH8UnARwd)     | [Models](https://api.convoai.tech/v1/models) | Owner parades under a egirl-account. The reason is unknown. Nuked competitor servers before, denies having done so. |
 | [Oxygen](https://discord.com/invite/kM6MaCqGKA)           | 1114                   | Donator-Only    | ❌           | [TornadoSoftware](https://github.com/tornado-softwares) | [Models](https://app.oxyapi.uk/v1/models)    | Current Frontpage UI is stolen from [Here](https://witter.framer.ai/), Dashboard UI from [Here](https://vercel.com). Service stable and alive for a long time already otherwise.         |
-| [ElectronHub](https://discord.gg/guXaKQWqzc)   | 416                    | Use /nsfw/ instead of /v1/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://api.electronhub.top/v1/models) | Created by the new [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) maintainer. Alleged KrakenAI copy. |
+| [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 231                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://api.heckerai.uk.to/v2/models) | N/A                                      | N/A                                                                 |
+
 
 #### Tier 3 -- Experimental, Unstable, Open-Access AI APIs:
 
@@ -40,6 +43,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | [Shard](https://discord.gg/rY85WpENSt)                    | 795                    | Only OSS-Models | ❌           | [Puzzy](https://github.com/Puzzy124)                    | [Models](http://api.shard-ai.xyz/v1/models)  | 'Edgiest' API with a controversial/questionable environment. Unstable service nowadays.                                |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)       | 433                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
 | [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 387                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
+| [ElectronHub](https://discord.gg/guXaKQWqzc)   | 416                    | Use /nsfw/ instead of /v1/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://api.electronhub.top/v1/models) | Created by the new [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) maintainer. Alleged KrakenAI copy. |
 | [ZanityAI](https://discord.gg/4DRjqaFkhd)             |       120                    | 💰     | ❌           | [Voidii](https://github.com/void6670)    | [Models](https://api.zanity.net/v1/models)          | new api made by voidi (zj dev), fairly experimental but good. |
 
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
@@ -81,6 +85,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | ClashAI       | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | Skailar       | [On Discord](https://discord.com/channels/1120753218071310346/1172503125177937981/1258843593557282906) | ✅    | 💰       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | ZanityAI      | [On Discord](https://discord.com/channels/1268484294779736065/1268484295576780889) | ✅    | ✅       | ✅         | ✅             | ❌         | ✅       | ❌                 | ✅                 |
+| HeckerAI | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ❌       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 
 > [!NOTE]  
 > A lot of the services also support specific models or higher usage rates for donators (such as us, zukijourney!), but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
@@ -105,6 +110,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | ClashAI       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
+| Hecker        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | ZanityAI         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 
 > [!IMPORTANT]  
