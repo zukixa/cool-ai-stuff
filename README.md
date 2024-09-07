@@ -80,7 +80,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | FresedGPT     | [Here](https://fresed-api.gitbook.io/fresed-api/limit-system)                                          | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ✅                 | ✅                 |
 | ElectronHub   | [On Discord](https://discord.com/channels/1257145953513902191/1257704563293556758/1271896797463187478) | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ❌                 | ✅                 |
 | AnyAI         | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ✅         | ✅             | ❌         | ❌       | ❌                 | ❌                 |
-| CablyAI       | Unavailable, assumed to be infinite, somehow?  | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| CablyAI       | Unavailable, assumed to be infinite, somehow?  | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ❌ | ❌ | ❌ | ❌ |
 | ConvoAI       | [Here](https://convoai.tech/#pricing)                                                                  | ✅    | 💰       | 💰         | ✅             | ❌         | ✅       | ❌                 | ❌                 |
 | Shard         | [Here](https://shard-ai.xyz/#pricing)                                                                  | ✅    | 💰       | 💰         | 💰             | ❌         | 💰       | ❌                 | ❌                 |
 | ShadowJourney | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
@@ -91,6 +91,8 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 > [!NOTE]  
 > A lot of the services also support specific models or higher usage rates for donators (such as us, zukijourney!), but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
+
+> *1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
 
 ### Overview of APIs -- Presented by # of OpenAI Endpoint Coverage (If Available)
 
@@ -103,7 +105,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Shard         | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | ConvoAI       | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | KrakenAI      | ✅             | ✅             | ✅         | ✅    | ❌          | ❌            |
-| CablyAI       | ✅             | ✅             | ❌         | ✅    | ❌          | ❌            |
+| CablyAI       | ✅<sup>1</sup>             | ✅<sup>1</sup>             | ❌         | ✅<sup>1</sup>    | ❌          | ❌            |
 | ElectronHub   | ❌             | ✅             | ✅         | ✅    | ❌          | ❌            |
 | FresedGPT     | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Oxygen        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
@@ -116,6 +118,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Hecker        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 
+> *1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of September 2024.**
