@@ -40,11 +40,11 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Service                                        | # of Users<sup>1</sup> | NSFW/RP Ok?                | Open Source?                                           | Owner(s)                                  | Models                                          | Other Notes                                                                                                           |
 | ---------------------------------------------- | ---------------------- | -------------------------- | ------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [AnyAI](https://discord.gg/anyai)             |       895                    | Allowed     | ❌           | [Meow18838](https://github.com/meow18838)    | [Models](https://api.llmplayground.net/v1/models)          | Very peculiar owner, seems to try and sell you a lot of services at once. Runs [https://llmplayground.net](https://llmplayground.net) as well. |
-| [CablyAI](https://cablyai.com)                |       UNKOWN                 | Allowed    | ❌            |          [CablyAI](https://github.com/CablyAI)          | [Models](https:/cablyai.com/v1/models)      | New but pretty stable api. |
 | [Shard](https://discord.gg/rY85WpENSt)                    | 795                    | Only OSS-Models | ❌           | [Puzzy](https://github.com/Puzzy124)                    | [Models](http://api.shard-ai.xyz/v1/models)  | 'Edgiest' API with a controversial/questionable environment. Unstable service nowadays.                                |
 | [Skailar](https://discord.gg/HjHdbrj5Uc)       | 433                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
-| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 387                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
 | [ElectronHub](https://discord.gg/guXaKQWqzc)   | 416                    | Use /nsfw/ instead of /v1/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://api.electronhub.top/v1/models) | Created by the new [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) maintainer. Alleged KrakenAI copy. |
+| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 387                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
+| [CablyAI](https://cablyai.com)                |       310                 | Allowed    | ❌            |          [CablyAI](https://github.com/CablyAI)          | [Models](https:/cablyai.com/v1/models)      | AnyAI affiliate. Ponziesque growht and access mechanics. |
 | [ZanityAI](https://discord.gg/4DRjqaFkhd)             |       120                    | 💰     | ❌           | [Voidii](https://github.com/void6670)    | [Models](https://api.zanity.net/v1/models)          | new api made by voidi (zj dev), fairly experimental but good. |
 
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
@@ -80,7 +80,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | FresedGPT     | [Here](https://fresed-api.gitbook.io/fresed-api/limit-system)                                          | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ✅                 | ✅                 |
 | ElectronHub   | [On Discord](https://discord.com/channels/1257145953513902191/1257704563293556758/1271896797463187478) | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ❌                 | ✅                 |
 | AnyAI         | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ✅         | ✅             | ❌         | ❌       | ❌                 | ❌                 |
-| CablyAI       | No official limits | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| CablyAI       | Unavailable, assumed to be infinite, somehow?  | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | ConvoAI       | [Here](https://convoai.tech/#pricing)                                                                  | ✅    | 💰       | 💰         | ✅             | ❌         | ✅       | ❌                 | ❌                 |
 | Shard         | [Here](https://shard-ai.xyz/#pricing)                                                                  | ✅    | 💰       | 💰         | 💰             | ❌         | 💰       | ❌                 | ❌                 |
 | ShadowJourney | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
@@ -97,6 +97,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Service       | Text-To-Speech | Speech-To-Text | Embeddings | Audio | Translation | Image-Upscale |
 | ------------- | -------------- | -------------- | ---------- | ----- | ----------- | ------------- |
 | zukijourney   | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
+| ZanityAI         | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
 | ShuttleAI     | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | NagaAI        | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | Shard         | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
@@ -114,7 +115,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Hecker        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
-| ZanityAI         | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
+
 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of September 2024.**
