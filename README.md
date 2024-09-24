@@ -45,7 +45,8 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | [Skailar](https://discord.gg/HjHdbrj5Uc)       | 440                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
 | [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 403                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
 | [ZanityAI](https://discord.gg/4DRjqaFkhd)             |       231                    | 💰     | ❌           | [Voidii](https://github.com/void6670)    | [Models](https://api.zanity.net/v1/models)          | new api made by voidi (zj dev), fairly experimental but good. |
-| [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 172                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://api.heckerai.uk.to/v2/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.                                                    
+| [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 172                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.                                                    
+| [HareProxy](https://discord.gg/7TAXPFvUzf) | 109 | Allowed | ✅, [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945)  | [Models](https://hareproxy.koyeb.app/status) | A [notorious pedophile](https://archives.zukijourney.com/folder/niko) holds a high ranking in the server. Good service otherwise. |
 
 
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
@@ -93,6 +94,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Skailar       | [On Discord](https://discord.com/channels/1120753218071310346/1172503125177937981/1258843593557282906) | ✅    | 💰       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | ZanityAI      | [On Discord](https://discord.com/channels/1268484294779736065/1268484295576780889) | ✅    | ✅       | ✅         | ✅             | ❌         | ✅       | ❌                 | ✅                 |
 | HeckerAI | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ❌       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
+| HareProxy | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ✅         | ❌             | ❌         | ✅       | ❌                 | ❌                 |
 
 > [!NOTE]  
 > A lot of the services also support specific models or higher usage rates for donators (such as us, zukijourney!), but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
@@ -122,7 +124,8 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | ClashAI       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
-| Hecker        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
+| HeckerAI        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
+| HareProxy        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 
 > *1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
 
