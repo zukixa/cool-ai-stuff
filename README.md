@@ -25,7 +25,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | [HentAI](https://discord.gg/hentai-zj-1127138833612427274) | 1125 | All models with free_nsfw_access set to true. Dono-only otherwise | ✅, [Here](https://github.com/zukijourney/example-api) | [ThatLukinhasGuy](https://github.com/ThatLukinhasGuy) | [Models](https://proxy.blackgaypornis.fun/v1/models) | Stable alternative API made by one of the Zukijourney devs. |
 | [NagaAI](https://discord.gg/JxRBXBhabu)              | 3236                   | Forbidden                 | ❌                                                    | [ZentixUA](https://github.com/ZentixUA)                | [Models](https://api.naga.ac/v1/models)            | Honorary successor to ChimeraGPT, the largest API in history (15k users).                       |
 | [FresedGPT](https://discord.gg/JecEC5my4T)           | 733                    | Forbidden                 | ❌                                                    | [Fresed](https://github.com/qazplmqaz)                 | [Models](https://fresedgpt.space/v1/models)        | Small API maintained by a surprisingly commited dev. Good quality.                              |
-
+| [WebraftAI](https://discord.gg/ncaagQjhQ8) | Was previously accused of faked models (reason: provider death and use of system prompts), the owner had abruptly left due to illness, The service is back again. Is serving since July 2023, and will continue to serve.         | 1207                   | Forbidden   | ❌           | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/v2/models)    |
 
 #### Tier 2 -- Standard, Basic AI API Services:
 
@@ -63,7 +63,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Service                                    | Why Potentially Misleading?                                                                                                                          | # of Users<sup>1</sup> | NSFW/RP Ok? | Open Source? | Owner(s)                                      | Models                                        |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------ | --------------------------------------------- | --------------------------------------------- |
 | [ShuttleAI ](https://discord.gg/shuttleai) | Now mainly focuses [on own fine-tuned](https://files.catbox.moe/qmlwrw.png) models, ignores "[all other ones.](https://files.catbox.moe/ebl19w.png)" | 3635                   | Allowed     | ❌           | [tristandevs](https://github.com/tristandevs) | [Models](https://api.shuttleai.app/v1/models) |
-| [WebraftAI](https://discord.gg/ncaagQjhQ8) | Repeatedly accused of faking the top-tier models by even close associates to the owner. API Owner is MIA for weeks now. Service unavailable.         | 1207                   | Forbidden   | ❌           | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/v1/models)    |
+
 | [Pawan](https://discord.gg/pawan)          | Does not provide OpenAI models. Only provides own RP-Models.                                                                                         | 108378                 | Allowed     | ❌           | [pawanosman](https://github.com/PawanOsman)   | [Models](http://api.pawan.krd/v1/models)      |
 
 #### Non-Tiered -- Non-API AI Servers:
@@ -83,6 +83,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | KrakenAI      | [On Discord](https://discord.com/channels/1087061361273622603/1185707754468429925/1248679693507493978) | ✅    | ✅       | ✅         | ✅             | ❌         | ✅       | ❌                 | ✅                 |
 | FresedGPT     | [Here](https://fresed-api.gitbook.io/fresed-api/limit-system)                                          | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ✅                 | ✅                 |
 | ElectronHub   | [On Discord](https://discord.com/channels/1257145953513902191/1257704563293556758/1271896797463187478) | ✅    | ✅       | ✅         | ✅             | ✅         | ✅       | ❌                 | ✅                 |
+| WebraftAI   | [Here](https://patreon.com/webraft) | ✅    | ✅       | ✅         | ❌             | ✅         | ✅       | ❌                 | ✅                 |
 | AnyAI         | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ✅         | ✅             | ❌         | ❌       | ❌                 | ❌                 |
 | CablyAI       | Unavailable, assumed to be infinite, somehow?  | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ❌ | ❌ | ❌ | ❌ |
 | ConvoAI       | [Here](https://convoai.tech/#pricing)                                                                  | ✅    | 💰       | 💰         | ✅             | ❌         | ✅       | ❌                 | ❌                 |
@@ -113,9 +114,9 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | KrakenAI      | ✅             | ✅             | ✅         | ✅    | ❌          | ❌            |
 | CablyAI       | ✅<sup>1</sup>             | ✅<sup>1</sup>             | ❌         | ✅<sup>1</sup>    | ❌          | ❌            |
 | ElectronHub   | ❌             | ✅             | ✅         | ✅    | ❌          | ❌            |
+| WebratAI      | ❌             | ❌             | ✅         | ❌    | ✅          | ❌            |
 | FresedGPT     | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Oxygen        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
-| WebratAI      | ❌             | ❌             | ❌         | ❌    | ✅          | ❌            |
 | AnyAI         | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Skailar       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | ShadowJourney | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
