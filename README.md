@@ -14,38 +14,36 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 <sup>\*: This list solely covers all providers I (@zukixa) was able to collect metrics in. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup> 
 
-<sup>1: Last Updated 9/30/24</sup>
+<sup>1: Last Updated 11/1/24</sup>
 
 
 #### Tier 1 -- Established, Premium-Service AI API Leaders:
 
 | Service                                              | # of Users<sup>1</sup> | NSFW/RP Ok?               | Open Source?                                          | Owner(s)                                               | Models                                             | Other Notes                                                                                     |
 | ---------------------------------------------------- | ---------------------- | ------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | 5511                   | Use /unf/chat... not /v1/ | ✅, [Here](https://github.com/zukixa/zukijourney-api) | [Our Team](https://github.com/orgs/zukijourney/people) | [Models](https://api.zukijourney.com/v1/models) | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too. |
-| [HentAI](https://discord.gg/hentai-zj-1127138833612427274) | 1125 | All models with free_nsfw_access set to true. Dono-only otherwise | ✅, [Here](https://github.com/zukijourney/example-api) | [ThatLukinhasGuy](https://github.com/ThatLukinhasGuy) | [Models](https://proxy.blackgaypornis.fun/v1/models) | Stable alternative API made by one of the Zukijourney devs. |
-| [NagaAI](https://discord.gg/JxRBXBhabu)              | 3236                   | Forbidden                 | ❌                                                    | [ZentixUA](https://github.com/ZentixUA)                | [Models](https://api.naga.ac/v1/models)            | Honorary successor to ChimeraGPT, the largest API in history (15k users).                       |
-| [FresedGPT](https://discord.gg/JecEC5my4T)           | 733                    | Forbidden                 | ❌                                                    | [Fresed](https://github.com/qazplmqaz)                 | [Models](https://fresedgpt.space/v1/models)        | Small API maintained by a surprisingly commited dev. Good quality.                              |
+| [zukijourney](https://discord.com/invite/Y4J6XXnmQ6) | 5724                   | Use /unf/chat... not /v1/ | ✅, [Here](https://github.com/zukixa/zukijourney-api) | [Our Team](https://github.com/orgs/zukijourney/people) | [Models](https://api.zukijourney.com/v1/models) | Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too. |
+| [HentAI](https://discord.gg/hentai-zj-1127138833612427274) | 1257 | All models with free_nsfw_access set to true. Dono-only otherwise | ✅, [Here](https://github.com/zukijourney/example-api) | [ThatLukinhasGuy](https://github.com/ThatLukinhasGuy) | [Models](https://proxy.blackgaypornis.fun/v1/models) | Stable alternative API made by one of the Zukijourney devs. |
+| [NagaAI](https://discord.gg/JxRBXBhabu)              | 3281                   | Forbidden                 | ❌                                                    | [ZentixUA](https://github.com/ZentixUA)                | [Models](https://api.naga.ac/v1/models)            | Honorary successor to ChimeraGPT, the largest API in history (15k users).                       |
+| [FresedGPT](https://discord.gg/JecEC5my4T)           | 838                    | Forbidden                 | ❌                                                    | [Fresed](https://github.com/qazplmqaz)                 | [Models](https://fresedgpt.space/v1/models)        | Small API maintained by a surprisingly commited dev. Good quality.                              |
 
 #### Tier 2 -- Standard, Basic AI API Services:
 
 | Service                                                   | # of Users<sup>1</sup> | NSFW/RP Ok?     | Open Source? | Owner(s)                                                | Models                                       | Other Notes                                                                                                         |
 | --------------------------------------------------------- | ---------------------- | --------------- | ------------ | ------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [WebraftAI](https://discord.gg/ncaagQjhQ8) | 1207                   | Forbidden   | ❌           | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/v2/models)    | Was previously accused of faked models (reason: provider death and use of system prompts), the owner had abruptly left due to illness, The service is back again. Is serving since July 2023, and will continue to serve.         |
-| [Oxygen](https://discord.com/invite/kM6MaCqGKA)           | 1139                   | Donator-Only    | ❌           | [TornadoSoftware](https://github.com/tornado-softwares) | [Models](https://app.oxyapi.uk/v1/models)    | Current Frontpage UI is stolen from [Here](https://witter.framer.ai/), Dashboard UI from [Here](https://vercel.com). Service stable and alive for a long time already otherwise.         |
-| [Shard](https://discord.gg/rY85WpENSt)                    | 832                    | Only OSS-Models | ❌           | [Puzzy](https://github.com/Puzzy124)                    | [Models](http://api.shard-ai.xyz/v1/models)  | 'Edgiest' API with a controversial/questionable environment. Normal service nowadays.                                |
-| [KrakenAI](https://discord.gg/krakenai)              | 735                    | Allowed                   | ❌                                                    | [PaniniCo](https://api.cracked.systems)                | [Models](https://api.cracked.systems/v1/models)    | Small, long-term stable API. Runs on https://poe.com                                            |
+| [WebraftAI](https://discord.gg/ncaagQjhQ8) | 1204                   | Forbidden   | ❌           | [ds_gamer](https://github.com/ds-gamer)       | [Models](https://api.webraft.in/v2/models)    | Was previously accused of faked models (reason: provider death and use of system prompts), the owner had abruptly left due to illness, The service is back again. Is serving since July 2023, and will continue to serve.         |
+| [Shard](https://discord.gg/rY85WpENSt)                    | 881                    | Only OSS-Models | ❌           | [Puzzy](https://github.com/Puzzy124)                    | [Models](http://api.shard-ai.xyz/v1/models)  | 'Edgiest' API with a controversial/questionable environment. Normal service nowadays.                                |
+| [ZanityAI](https://discord.gg/4DRjqaFkhd)             |       810                    | 💰     | ❌           | [Voidii](https://github.com/void6670)    | [Models](https://api.zanity.net/v1/models)          | new api made by voidi (zj dev), fairly experimental but good. |
+| [ElectronHub](https://discord.gg/guXaKQWqzc)   | 670                    | Use /nsfw/ instead of /v1/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://api.electronhub.top/v1/models) | Created by the new [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) maintainer. Alleged KrakenAI copy. |
 
 
 #### Tier 3 -- Experimental, Unstable, Open-Access AI APIs:
 
 | Service                                        | # of Users<sup>1</sup> | NSFW/RP Ok?                | Open Source?                                           | Owner(s)                                  | Models                                          | Other Notes                                                                                                           |
 | ---------------------------------------------- | ---------------------- | -------------------------- | ------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [ZanityAI](https://discord.gg/4DRjqaFkhd)             |       603                    | 💰     | ❌           | [Voidii](https://github.com/void6670)    | [Models](https://api.zanity.net/v1/models)          | new api made by voidi (zj dev), fairly experimental but good. |
-| [ElectronHub](https://discord.gg/guXaKQWqzc)   | 518                    | Use /nsfw/ instead of /v1/ | ❌                                                     | [snowby666](https://github.com/snowby666) | [Models](https://api.electronhub.top/v1/models) | Created by the new [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) maintainer. Alleged KrakenAI copy. |
-| [Skailar](https://discord.gg/ka9tkU9UNz)       | 438                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
-| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 432                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
-| [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 237                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.                                                    
-| [HareProxy](https://discord.gg/7TAXPFvUzf) | 143 | Allowed | ✅, [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945)  | [Models](https://hareproxy.koyeb.app/status) | A [notorious pedophile](https://archives.zukijourney.com/folder/niko) holds a high ranking in the server. Good service otherwise. |
+| [Skailar](https://discord.gg/ka9tkU9UNz)       | 441                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
+| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 461                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
+| [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 269                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.                                                    
+| [HareProxy](https://discord.gg/7TAXPFvUzf) | 176 | Allowed | ✅, [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945)  | [Models](https://api.hareproxy.io.vn/v1) |  Solid service, however it is not in the usual g4f-format. Each corporate model type has its own endpoint. |
 
 
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
@@ -54,7 +52,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------ | -------------------------------------------- | ------------------------------------------------------- |
 | [ClashAI](https://discord.gg/rNBC9Hxzrx)              | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid). API Owner is very petty (parked the entry of every api here) & [begs for providers.](https://files.catbox.moe/3d9ux9.png)                   | 875                    | Allowed     | ❌           | [InvalidSian](https://rentry.co/invalidsian) | [Models](http://clashai.3utilities.com:25621/v1/models) |
 | [Stable, inc.](https://discord.com/invite/hmMBe8YyJ4) | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)                                                                                                                                              | 849                    | Allowed     | ❌           | [alphast101](https://alphast101.netlify.app) | [Models](http://45.139.50.97:6077/v1/models)            |
-| [AnyAI](https://discord.gg/anyai)             |     Most influential person in the server is [a terrible being.](https://paste.gg/p/anonymous/6929f0449b8d44e981e90c7155df2126) |   1175                    | Allowed     | ❌           | [Meow18838](https://github.com/meow18838)    | [Models](https://api.llmplayground.net/v1/models)          |
+| [AnyAI](https://discord.gg/anyai)             |     Most influential person in the server is [a terrible being.](https://paste.gg/p/anonymous/6929f0449b8d44e981e90c7155df2126) |   1175                    | Allowed     | ❌           | [Meow18838](https://github.com/meow18838)    | [Models](https://api.airforce/models)          |
 | [CablyAI](https://cablyai.com)                |    Most influential person in the server is [a terrible being.](https://paste.gg/p/anonymous/6929f0449b8d44e981e90c7155df2126) |   674                 | Allowed    | ❌            |          [CablyAI](https://github.com/CablyAI)          | [Models](https:/cablyai.com/v1/models)      | 
 
 
@@ -63,8 +61,10 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | Service                                    | Why Potentially Misleading?                                                                                                                          | # of Users<sup>1</sup> | NSFW/RP Ok? | Open Source? | Owner(s)                                      | Models                                        |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------ | --------------------------------------------- | --------------------------------------------- |
 | [ShuttleAI ](https://discord.gg/shuttleai) | Now mainly focuses [on own fine-tuned](https://files.catbox.moe/qmlwrw.png) models, ignores "[all other ones.](https://files.catbox.moe/ebl19w.png)" | 3635                   | Allowed     | ❌           | [tristandevs](https://github.com/tristandevs) | [Models](https://api.shuttleai.app/v1/models) |
-
 | [Pawan](https://discord.gg/pawan)          | Does not provide OpenAI models. Only provides own RP-Models.                                                                                         | 108378                 | Allowed     | ❌           | [pawanosman](https://github.com/PawanOsman)   | [Models](http://api.pawan.krd/v1/models)      |
+| [Oxygen](https://discord.com/invite/kM6MaCqGKA)     | **[Outage since 10/13/24, service not yet restored]** Current Frontpage UI is stolen from [Here](https://witter.framer.ai/), Dashboard UI from [Here](https://vercel.com). Service stable and alive for a long time already otherwise.         |      | 1206                   | Donator-Only    | ❌           | [TornadoSoftware](https://github.com/tornado-softwares) | [Models](https://app.oxyapi.uk/v1/models)    
+| [KrakenAI](https://discord.gg/krakenai)          | **[Outage since 10/13/24, service not yet restored]** Small, long-term stable API. Runs on https://poe.com                                            |     | 755                    | Allowed                   | ❌                                                    | [PaniniCo](https://api.cracked.systems)                | [Models](https://api.cracked.systems/v1/models)   
+
 
 #### Non-Tiered -- Non-API AI Servers:
 
@@ -118,18 +118,19 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | FresedGPT     | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Oxygen        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
 | AnyAI         | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
+| HareProxy        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
 | Skailar       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | ShadowJourney | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | ClashAI       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | HeckerAI        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
-| HareProxy        | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
+
 
 > *1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
 
 > [!IMPORTANT]  
-> Data given without warranty of any kind. **As of September 2024.**
+> Data given without warranty of any kind. **As of November 2024.**
 
 **You are welcome to contribute to this list by opening a pull request!**
 
