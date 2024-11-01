@@ -1,6 +1,6 @@
 # Free AI APIs & Sites
 
-This repository is a showcase of AI APIs and Websites that offer free usage of some/many AI models.
+This repository is a showcase of AI APIs and Websites that offer free usage of AI models under g4f principles.
 
 ### A better overview is now available on our website! Check it out here [https://cas.zukijourney.com](https://cas.zukijourney.com)
 
@@ -40,7 +40,6 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 | Service                                        | # of Users<sup>1</sup> | NSFW/RP Ok?                | Open Source?                                           | Owner(s)                                  | Models                                          | Other Notes                                                                                                           |
 | ---------------------------------------------- | ---------------------- | -------------------------- | ------------------------------------------------------ | ----------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | 461                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   | Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. |
 | [Skailar](https://discord.gg/ka9tkU9UNz)       | 441                    | Forbidden                  | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/)     | [Models](https://test.skailar.it/v1/models)     | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain.                       |
 | [HeckerAI](https://discord.gg/CzTvEbUaHS)                 | 269                    | Forbidden       | ❌           | [Hecker](https://github.com/LiveGamer101)               | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.                                                    
 | [HareProxy](https://discord.gg/JWVmDTz3mt) | 176 | Allowed | ✅, [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945)  | [Models](https://api.hareproxy.io.vn/v1) |  Solid service, however it is not in the usual g4f-format. Each corporate model type has its own endpoint. |
@@ -50,6 +49,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 | Service                                               | Why Potentially Misleading?                                                                                                                                                                                                         | # of Users<sup>1</sup> | NSFW/RP Ok? | Open Source? | Owner(s)                                     | Models                                                  |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------ | -------------------------------------------- | ------------------------------------------------------- |
+| [ShadowJourney](https://discord.gg/yB2YZJUA3F) | [Admitted privately to DDOS competition.](https://files.catbox.moe/4wu7t2.png) Very weird owner. Unstable service & stability, when present, is questioned by supposed fake models. Use at own risk. | 461                    | Forbidden                  | ❌                                                     | [ichatei](https://shadowjourney.xyz)      | [Models](https://shadowjourney.xyz/v1/models)   |
 | [ClashAI](https://discord.gg/rNBC9Hxzrx)              | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid). API Owner is very petty (parked the entry of every api here) & [begs for providers.](https://files.catbox.moe/3d9ux9.png)                   | 864                    | Allowed     | ❌           | [InvalidSian](https://rentry.co/invalidsian) | [Models](http://clashai.3utilities.com:25621/v1/models) |
 | [Stable, inc.](https://discord.com/invite/hmMBe8YyJ4) | [Conducted a coordinated raid on another AI API server.](https://rentry.co/progptraid)                                                                                                                                              | 1018                    | Allowed     | ❌           | [alphast101](https://alphast101.netlify.app) | [Models](http://api.xet.one/v1/models)            |
 | [AnyAI](https://discord.gg/anyai)             |     Most influential person in the server is [a terrible being.](https://paste.gg/p/anonymous/6929f0449b8d44e981e90c7155df2126) |   1488                    | Allowed     | ❌           | [Meow18838](https://github.com/meow18838)    | [Models](https://api.airforce/models)          |
@@ -60,9 +60,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 
 | Service                                    | Why Potentially Misleading?                                                                                                                          | # of Users<sup>1</sup> | NSFW/RP Ok? | Open Source? | Owner(s)                                      | Models                                        |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------- | ------------ | --------------------------------------------- | --------------------------------------------- |
-| [ShuttleAI ](https://discord.gg/shuttleai) | Now mainly focuses [on own fine-tuned](https://files.catbox.moe/qmlwrw.png) models, ignores "[all other ones.](https://files.catbox.moe/ebl19w.png)" | 3619                   | Allowed     | ❌           | [tristandevs](https://github.com/tristandevs) | [Models](https://api.shuttleai.app/v1/models) |
 | [Pawan](https://discord.gg/pawan)          | Does not provide OpenAI models. Only provides own RP-Models.                                                                                         | 108378                 | Allowed     | ❌           | [pawanosman](https://github.com/PawanOsman)   | [Models](http://api.pawan.krd/v1/models)      |
-| [Oxygen](https://discord.com/invite/kM6MaCqGKA)     | **[Outage since 10/13/24, service not yet restored]** Current Frontpage UI is stolen from [Here](https://witter.framer.ai/), Dashboard UI from [Here](https://vercel.com). Service stable and alive for a long time already otherwise.               | 1206                   | Donator-Only    | ❌           | [TornadoSoftware](https://github.com/tornado-softwares) | [Models](https://app.oxyapi.uk/v1/models)    
 | [KrakenAI](https://discord.gg/krakenai)          | **[Outage since 10/13/24, service not yet restored]** Small, long-term stable API. Runs on https://poe.com                                            |      755                    | Allowed                   | ❌                                                    | [PaniniCo](https://api.cracked.systems)                | [Models](https://api.cracked.systems/v1/models)   
 
 
@@ -107,7 +105,6 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | zukijourney   | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
 | HentAI   | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
 | ZanityAI         | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
-| ShuttleAI     | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | NagaAI        | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | Shard         | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | ConvoAI       | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
@@ -116,7 +113,6 @@ This repository is a showcase of AI APIs and Websites that offer free usage of s
 | ElectronHub   | ❌             | ✅             | ✅         | ✅    | ❌          | ❌            |
 | WebratAI      | ❌             | ❌             | ✅         | ❌    | ✅          | ❌            |
 | FresedGPT     | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
-| Oxygen        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
 | AnyAI         | ✅             | ❌             | ❌         | ❌    | ❌          | ❌            |
 | HareProxy        | ❌             | ❌             | ✅         | ❌    | ❌          | ❌            |
 | Skailar       | ❌             | ❌             | ❌         | ❌    | ❌          | ❌            |
