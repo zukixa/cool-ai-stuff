@@ -84,7 +84,6 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | WebraftAI   | [Here](https://patreon.com/webraft) | ✅    | ✅       | ✅         | ❌             | ✅         | ✅       | ❌                 | ✅                 |
 | AnyAI         | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ✅         | ✅             | ❌         | ❌       | ❌                 | ❌                 |
 | CablyAI       | Unavailable, assumed to be infinite, somehow?  | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ✅<sup>1</sup> | ❌ | ❌ | ❌ | ❌ |
-| ConvoAI       | [Here](https://convoai.tech/#pricing)                                                                  | ✅    | 💰       | 💰         | ✅             | ❌         | ✅       | ❌                 | ❌                 |
 | Shard         | [Here](https://shard-ai.xyz/#pricing)                                                                  | ✅    | 💰       | 💰         | 💰             | ❌         | 💰       | ❌                 | ❌                 |
 | ShadowJourney | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | ClashAI       | Unavailable, assumed to be infinite, somehow?                                                          | ✅    | ✅       | ❌         | ❌             | ❌         | ❌       | ❌                 | ❌                 |
@@ -107,7 +106,6 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | ZanityAI         | ✅             | ✅             | ✅         | ✅    | ✅          | ✅            |
 | NagaAI        | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | Shard         | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
-| ConvoAI       | ✅             | ✅             | ✅         | ✅    | ✅          | ❌            |
 | KrakenAI      | ✅             | ✅             | ✅         | ✅    | ❌          | ❌            |
 | CablyAI       | ✅<sup>1</sup>             | ✅<sup>1</sup>             | ❌         | ✅<sup>1</sup>    | ❌          | ❌            |
 | ElectronHub   | ❌             | ✅             | ✅         | ✅    | ❌          | ❌            |
