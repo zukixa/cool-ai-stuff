@@ -42,6 +42,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | [Skailar](https://discord.gg/ka9tkU9UNz) | 441                    | Forbidden   | ✅, [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/) | [Models](https://test.skailar.it/v1/models) | Ancient API at seemingly affordable cost. Service stability & maintainer interest is uncertain. |
 [HeckerAI](https://discord.gg/CzTvEbUaHS) | 269 | Forbidden | ❌ | [Hecker](https://github.com/LiveGamer101) | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffered from "Indecision to Keep Maintaining Syndrome" for a long time.  |
 [AstraAI](https://discord.gg/astra-ai) | 219| RP allowed, NSFW discouraged| ❌ | [Vneq](https://github.com/vneqisntreal), [GG](https://github.com/goldaistaffgg), [InvalidSian](https://github.com/InvalidSian), & more. | [Models](https://api.tryastra.pro/v1/models) | Robust API with a wide selection of models, backed by plans for expansion and enhanced stability.
+| [HelixMind](https://discord.gg/ZCSXBGHY) | 205 | Forbidden | ❌ | [faer1x](https://github.com/faer1x) | [Models](https://helixmind.online/v1/models) | Subscription-based service offering chat, images, and embeddings functionality |
 | [HareProxy](https://discord.gg/JWVmDTz3mt) | 176 | Allowed | ✅, [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://api.hareproxy.io.vn/v1) | Solid service, however it is not in the usual g4f-format. Each corporate model type has its own endpoint. |
 
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
@@ -61,12 +62,13 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | [Pawan](https://discord.gg/pawan)       | Does not provide OpenAI models. Only provides own RP-Models.                                               | 108378                 | Allowed     | ❌           | [pawanosman](https://github.com/PawanOsman) | [Models](http://api.pawan.krd/v1/models)        |
 | [KrakenAI](https://discord.gg/krakenai) | **[Outage since 10/13/24, service not yet restored]** Small, long-term stable API. Runs on https://poe.com | 755                    | Allowed     | ❌           | [PaniniCo](https://api.cracked.systems)     | [Models](https://api.cracked.systems/v1/models) |
 
+
 #### Non-Tiered -- Non-API AI Servers:
 
-| Service                                                       | # of Users<sup>1</sup> | What does it provide?                                                                                  | Other Notes                                     |
-| ------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| [FreeGPT4](https://discord.gg/free-gpt-4-1106520284967735316) | 4827                   | Ancient community of gpt-4-free individuals. Plenty good AI-related content.                           | Ran by [@lomusire](https://github.com/Lomusire) |
-| [g4f.ai](https://discord.gg/zPX6QWm5fg)                       | 13339                  | The OG server. Hub of the github [repository](https://github.com/xtekky/gpt4free) that started it all. | Inactive                                        |
+| Service | # of Users<sup>1</sup> | What does it provide? | Other Notes |
+| ------- | --------------------- | -------------------- | ----------- |
+| [FreeGPT4](https://discord.gg/free-gpt-4-1106520284967735316) | 4827 | Ancient community of gpt-4-free individuals. Plenty good AI-related content. | Ran by [@lomusire](https://github.com/Lomusire) |
+| [g4f.ai](https://discord.gg/zPX6QWm5fg) | 13339 | The OG server. Hub of the github [repository](https://github.com/xtekky/gpt4free) that started it all. | Inactive |
 
 ### Overview of APIs -- Sorted by General Model Availability & Usage limits (Free Tier):
 
@@ -89,7 +91,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | ZanityAI      | [On Discord](https://discord.com/channels/1268484294779736065/1268484295576780889)                     | ✅             | ✅             | ✅             | ✅             | ❌         | ✅       | ❌                 | ✅                 |
 | HeckerAI      | Unavailable, assumed to be infinite, somehow?                                                          | ✅             | ❌             | ❌             | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | HareProxy     | Unavailable, assumed to be infinite, somehow?                                                          | ✅             | ✅             | ✅             | ❌             | ❌         | ✅       | ❌                 | ❌                 |
-
+| HelixMind | Subscription-based | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
 > [!NOTE]  
 > A lot of the services also support specific models or higher usage rates for donators (such as us, zukijourney!), but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
@@ -111,6 +113,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | FresedGPT     | ✅             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | AnyAI         | ✅             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | HareProxy     | ❌             | ❌             | ✅         | ❌             | ❌          | ❌            |
+| HelixMind | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | Skailar       | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | AstraAI| ❌             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | ShadowJourney | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            |
@@ -121,6 +124,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 
 
 > \*1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
+
 
 > [!IMPORTANT]  
 > Data given without warranty of any kind. **As of November 2024.**
