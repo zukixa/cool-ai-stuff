@@ -46,7 +46,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 [HeckerAI](https://discord.gg/CzTvEbUaHS) | 269 | Forbidden | ❌ | [Hecker](https://github.com/LiveGamer101) | [Models](https://heckerai.com/v1/models) | Solid API. Owner suffers from "Indecision to Keep Maintaining Syndrome" for a long time.  |
 [AstraAI](https://discord.gg/astra-ai) | 219| RP allowed, NSFW discouraged| ❌ | [Vneq](https://github.com/vneqisntreal), [GG](https://github.com/goldaistaffgg), [InvalidSian](https://github.com/InvalidSian), & more. | [Models](https://api.tryastra.pro/v1/models) | Robust API with a wide selection of models, backed by plans for expansion and enhanced stability.
 | [HelixMind](https://discord.gg/ZCSXBGHY) | 205 | Forbidden | ❌ | [faer1x](https://github.com/faer1x) | [Models](https://helixmind.online/v1/models) | Subscription-based service offering chat, images, and embeddings functionality |
-
+| [NoBrandAI](https://discord.gg/nobrand) | 126 | Only on OSS models | ❌ | GG | [Models](https://nobrandai.com/v1/models) | 500 Free credits, Gen Based not Token Based, Video offerings exist but are broken |
 #### Tier 3.5 -- Caution Advised: Questionable AI API Offerings:
 
 | Service                                               | Why Potentially Misleading?                                                                                                                                                                                       | # of Users<sup>1</sup> | NSFW/RP Ok? | Open Source? | Owner(s)                                     | Models                                                  |
@@ -94,6 +94,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | HeckerAI      | Unavailable, assumed to be infinite, somehow?                                                          | ✅             | ❌             | ❌             | ❌             | ❌         | ❌       | ❌                 | ❌                 |
 | HareProxy     | Unavailable, assumed to be infinite, somehow?                                                          | ✅             | ✅             | ✅             | ❌             | ❌         | ✅       | ❌                 | ❌                 |
 | HelixMind | Subscription-based | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
+| NoBrand | Subscription-based | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ |
 > [!NOTE]  
 > A lot of the services also support specific models or higher usage rates for donators (such as us, zukijourney!), but we are **just including the free tier** here. Some of these services give you rewards over time etc., but I'm assuming here that you only have ~10 mins of time.
 
@@ -123,6 +124,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | Stable, inc.  | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | Pawan         | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            |
 | HeckerAI      | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            
+| NoBrand      | ❌             | ❌             | ❌         | ❌             | ❌          | ❌            
 
 
 > \*1: CablyAI only provides this service either in limited, occasional free trials or after having you invite 10 more members.
