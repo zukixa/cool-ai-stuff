@@ -12,4 +12,14 @@ Please note the following:
 
 4. **Indemnification**: Users agree to indemnify, defend, and hold harmless the author of this repository from and against any and all claims, liabilities, damages, losses, or expenses, including legal fees and costs, arising out of or in any way connected with their use or misuse of this repository, its content, or related third-party APIs.
 
-5. **Updates and Changes**: The author reserves the right to modify, update, or remove any content, information, or features in this repository at any time without prior notice. Users are responsible for regularly reviewing the content and any changes made to this repository. 
+5. **Updates and Changes**: The author reserves the right to modify, update, or remove any content, information, or features in this repository at any time without prior notice. Users are responsible for regularly reviewing the content and any changes made to this repository.
+
+6. **Admission onto the List**: The author reserves the right to admit or exclude any API from this repository at any time without prior notice; however, any changes will be made in the best interest of the community.
+
+7. **No Warranty**: This repository is provided "as is" without any warranty of any kind, either express or implied. The author does not guarantee the accuracy, completeness, or usefulness of the information provided in this repository.
+
+8. **Limitation of Liability**: In no event will the author be liable for any damages, including without limitation, direct, indirect, special, incidental, or consequential damages, arising out of or in connection with the use or misuse of this repository or the content provided by the third-party APIs.
+
+9. **Governing Law**: The rules, definitions, and guideliens of what is and is not allowed in this repository are governed by the CAS council.
+
+10. **Contact**: If you have any questions or concerns about this repository or its content, please contact the author at @zukixa on Discord.
