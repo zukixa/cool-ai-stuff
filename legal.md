@@ -20,6 +20,6 @@ Please note the following:
 
 8. **Limitation of Liability**: In no event will the author be liable for any damages, including without limitation, direct, indirect, special, incidental, or consequential damages, arising out of or in connection with the use or misuse of this repository or the content provided by the third-party APIs.
 
-9. **Governing Law**: The rules, definitions, and guideliens of what is and is not allowed in this repository are governed by the CAS council.
+9. **Governing Law**: The rules, definitions, and guidelines of what is and is not allowed in this repository are governed by the CAS council.
 
 10. **Contact**: If you have any questions or concerns about this repository or its content, please contact the author at @zukixa on Discord.
