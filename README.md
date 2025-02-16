@@ -6,7 +6,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 
 #### To be added, your API must be of clean record, >100 members, stable, and support at least all chat & image generation functionalities in the OpenAI format, [as displayed here](https://github.com/zukijourney/example-api)
 
-> [!WARNING]  
+> [!WARNING]
 > I, @zukixa, am the queen of [zukijourney](https://github.com/zukijourney), but I am also the only one to actively maintain this list.
 > We are not endorsing _any_ of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
 
@@ -14,7 +14,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 
 <sup>\*: This list solely covers all providers I (@zukixa) was reasonably able to collect metrics from. Any mistakes are not my responsibility, as I am either banned, or not aware of x API.</sup>
 
-<sup>1: Last Updated 2/10/25</sup>
+<sup>1: Last Updated 2/16/25</sup>
 
 ---
 
@@ -52,9 +52,10 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 
 | **Service**                                | **# of Users** | **NSFW/RP Ok?** | **Open Source?**                                      | **Owner(s)**                          | **Models**                                          | **Other Notes**                                                                                 |
 | ------------------------------------------ | -------------- | --------------- | ----------------------------------------------------- | ------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Skailar](https://discord.gg/2n5AuCF3bD)   | 463            | ❌ Forbidden    | ✅ [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://test.skailar.it/) | [Models](https://api.skailar.it/v1/models)          | One of the oldest APIs. Stability and maintainer involvement are questionable.                  |
+| [Skailar](https://discord.gg/2n5AuCF3bD)   | 463            | ❌ Forbidden    | ✅ [Here](https://github.com/zukijourney/example-api) | [Aquadraws](https://api.skailar.it/) | [Models](https://api.skailar.it/v1/models)          | One of the oldest APIs. Stability and maintainer involvement are questionable.                  |
 | [VoidAI](https://discord.gg/2nQwkvFFj6)    | 305            | ✅ Limited      | ❌                                                    | [acatto](https://github.com/acattoXD) | [Models](https://api.voidai.xyz/v1/models)          | An odd api with historically some other ai-related projects. Now focused on just APIs it seems. |
 | [HareProxy](https://discord.gg/rpURd3jaRf) | 261            | ✅ Allowed      | ✅ [Here](https://gitgud.io/khanon/oai-reverse-proxy) | [yongdong](https://github.com/sm1945) | [Models](https://unified.hareproxy.io.vn/v1/models) | Offers unique endpoints for each model type. Owner self-proclaimes to be unable to code.        |
+| [OzoneAI](https://discord.gg/35Uf7aQQQC) | 100 | ✅ (except violent NSFW content) | ❌ | [Vneq](https://github.com/vneqisntreal) | [Models](https://api.ozone-ai.com/v1/models) | A brand new API with promising stability and improving speeds.                                                                                                           |
 
 ---
 
@@ -87,6 +88,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | **zukijourney** | [Details here](https://docs.zukijourney.com/models)                                                      | ✅         | ✅             | ✅                 | ✅              | 💰             | ✅           | ✅                             | 💰                     |
 | **ElectronHub** | [Details here](https://www.electronhub.top/pricing)                                                      | ✅         | ✅             | ✅                 | ✅              | 💰             | ✅           | ✅                             | 💰                     |
 | **ZanityAI**    | [Details here](https://docs.zanity.xyz)                                                                  | ✅         | 💰             | ✅                 | ❌              | 💰             | ✅           | ❌                             | 💰                     |
+| **OzoneAI**       | [Details here](https://discord.com/channels/1323888438403141682/1336077102533050408/1336077390308184230)                                                                                            | ✅ | ✅ | ✅   | ❌  | ❌ | ❌ | ❌ | ❌         |
 | **NagaAI**      | [Details here](https://naga.ac/dashboard/models)                                                         | 💰         | 💰             | ✅                 | ✅              | 💰             | 💰           | 💰                             | 💰                     |
 | **HelixMind**   | [Details here](https://helixmind.online/#pricing)                                                        | ✅         | 💰             | ✅                 | ❌              | ❌             | ✅           | ❌                             | ❌                     |
 | **WebraftAI**   | [Details here](https://api.webraft.in/freeapi/models)                                                    | ✅         | 💰             | ✅                 | ❌              | 💰             | ✅           | ❌                             | ❌                     |
@@ -112,7 +114,7 @@ This repository is a showcase of AI APIs and Websites that offer free usage of A
 | HelixMind   | ❌             | ❌             | ✅         | ❌          | ❌          | ❌            |
 | VoidAI      | ✅             | ❌             | ❌         | ❌          | ❌          | ❌            |
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Data given without warranty of any kind. **As of February 2025.**
 
 **You are welcome to contribute to this list by opening a pull request!**
