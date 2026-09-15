@@ -329,6 +329,8 @@ The AI Chat Websites section is no longer actively maintained. For a more curren
 
 - Visit [@programmer1o1's resource collection](https://www.tankie.xyz/vacepw)
 - View [our legacy list on Rentry](https://rentry.co/pm8n86ec)
+- [HostDeFi](https://hostdefi.com) - Free token-safety REST API — keyless, 100 checks/day per IP; A+–F grades for tokens on Solana and 8 EVM chains. [OpenAPI](https://hostdefi.com/openapi.json)
+
 
 ---
 
